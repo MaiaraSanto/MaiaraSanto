@@ -39,7 +39,9 @@
  <a href="75 991050049" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
    ![Snake animation](https://github.com/maiarasanto/maiarasanto/blob/output/github-contribution-grid-snake.svg)   
-   </div>
+   
+ 
+ </div>
  
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=MaiaraSanto&theme=react)](https://github.com/MaiaraSanto/MaiaraSanto)
       
