@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/MAIARASANTO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAIARASANTO&theme=cobalt&include_all_commits"/>
+  <img height="180em", width "50em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<img height="180em", width "50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAIARASANTO&theme=cobalt&include_all_commits"/>
     
     
 </div>
@@ -27,6 +27,7 @@
   <img align="center" alt="Maiara-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Maiara-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
     <img align="center" alt="Maiara-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="right" alt="Maiara-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
    </div>
   
   ##
