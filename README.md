@@ -5,7 +5,7 @@
 - 👯 Espero contribuir com minhas habilidades e conhecimentos adquiridos dentro da área da Tecnologia!
 
 <div align="center">
-  <a href="https://github.com/MaiaraSanto">
+  <a href="https://github.com/MAIARASANTO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAIARASANTO&theme=cobalt&include_all_commits"/>
     
@@ -37,11 +37,15 @@
   <a href = "katylenekatylene@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maiarasantos25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://api.whatsapp.com/send?phone=5575991050049" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
-   ![Snake animation](https://github.com/maiarasanto/maiarasanto/blob/output/github-contribution-grid-snake.svg)   
-   
  
  </div>
+  
+  
+  
+  ![Snake animation](https://github.com/maiaraSanto/maiaraSanto/blob/output/github-contribution-grid-snake.svg)  
+   
+ 
+
  
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=MaiaraSanto&theme=react)](https://github.com/MaiaraSanto/MaiaraSanto)
       
