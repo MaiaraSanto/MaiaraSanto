@@ -31,7 +31,7 @@
   <img align="center" alt="Maiara-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
     <img align="center" alt="Maiara-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="right" alt="Maiara-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-   <img align="left" alt="Mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/106199899/180885259-ab5f7da6-92a2-48b3-82d4-d59351968dfa.png">
+   <img align="right" alt="Mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/106199899/180885259-ab5f7da6-92a2-48b3-82d4-d59351968dfa.png">
    </div>
   
   ##
