@@ -2,8 +2,8 @@
 
 - 🔭 Apaixonada por Programação!
 - 🌱 Estudante de Desenvolvimento de Software!
-- 👯 Espero contribuir com minhas habilidades e conhecimentos adquiridos dentro da área da Tecnologia!
-
+- 👯 Espero contribuir com minhas habilidades e conhecimentos adquiridos dentro da área da Tecnologia! 
+                                                                    
 <div align="center">
   <a href="https://github.com/MAIARASANTO">
   <img height="180em", width "50em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
@@ -30,7 +30,7 @@
   <img align="center" alt="Maiara-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Maiara-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
     <img align="center" alt="Maiara-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   
+    
    <img align="right" alt="Mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/106199899/180885259-ab5f7da6-92a2-48b3-82d4-d59351968dfa.png">
    </div>
   
@@ -44,6 +44,7 @@
   <a href="https://www.linkedin.com/in/maiarasantos25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://api.whatsapp.com/send?phone=5575991050049" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href = "maiarasantos34@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=blue" target="_blank"></a>
+ [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=pink)](https://public.tableau.com/app/profile/maiara.santos7831)
  
  
     
