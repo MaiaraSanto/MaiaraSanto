@@ -1,7 +1,7 @@
  OLÁ, EU SOU MAIARA!!! 👋
 
 - 🔭 Apaixonada por Programação!
-- 🌱 Estudante de Desenvolvimento de Software!
+- 🌱 Estudante de Desenvolvimento de Software na StackX!
 - 👯 Espero contribuir com minhas habilidades e conhecimentos adquiridos dentro da área da Tecnologia! 
                                                                     
 <div align="center">
