@@ -46,7 +46,7 @@
    <a href="https://is.gd/pog8Tu" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://is.gd/uGaRKh" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%230077B5?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100069142017196" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/profile.php?id=100069142017196" target="_blank"><img src="https://img.shields.io/badge/-Twitch-%230077B5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/maysantos20" target="_blank"><img src="https://img.shields.io/badge/-Twitch-%230077B5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=pink)](https://public.tableau.com/app/profile/maiara.santos7831)
  
     
