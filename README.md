@@ -36,7 +36,7 @@
   
   ##
   
-  <div> 
+  <div align="center"> 
    
   <a href="https://www.instagram.com/mayarahsant/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -49,11 +49,13 @@
   <a href="https://www.twitch.tv/maysantos20" target="_blank"><img src="https://img.shields.io/badge/-Twitch-%230077B5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=pink)](https://public.tableau.com/app/profile/maiara.santos7831)
  
+ 
+  </div align="center">
     
   ![Snake animation](https://github.com/maiaraSanto/maiaraSanto/blob/output/github-contribution-grid-snake.svg )  
   
   
- </div>
+
    
  
 
