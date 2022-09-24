@@ -55,7 +55,8 @@
   ![Snake animation](https://github.com/maiaraSanto/maiaraSanto/blob/output/github-contribution-grid-snake.svg )  
    
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=MaiaraSanto&theme=react)](https://github.com/MaiaraSanto/MaiaraSanto ) 
- <p align="end"> Total de Visitas no perfil :detective: <br> </p>
+
+<p align="end"> Total de Visitas no perfil :detective: <br> </p>
    <p align="end">
    <img alingn="end" src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />
    
