@@ -7,9 +7,7 @@
 <div align="center">
   <a href="https://github.com/MAIARASANTO">
   <img height="180em", width "100em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
-<img height="180em", width "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAIARASANTO&theme=dark"/> 
-<br>                                                                                                                       <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
+<img height="180em", width "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAIARASANTO&theme=dark"/>                                        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
 
     
     
@@ -57,11 +55,6 @@
    
  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=MaiaraSanto&theme=react)](https://github.com/MaiaraSanto/MaiaraSanto )
    
-   ## Repositórios Principais
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=demo-dao-jdbc&theme=dark)](https://github.com/MaiaraSanto/demo-dao-jdbc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Joguinho-do-Canvas&theme=dark)](https://github.com/MaiaraSanto/Joguinho-do-Canvas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Projeto-Tiflux&theme=dark)](https://github.com/MaiaraSanto/Projeto-Tiflux)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=NLW-SPORTS-EXPLORER&theme=dark)](https://github.com/MaiaraSanto/NLW-SPORTS-EXPLORER)
       
     
    
