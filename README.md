@@ -2,10 +2,8 @@
 
  - 🔭 Apaixonada por Programação!
  - 🌱 Estudante de Desenvolvimento de Software na StackX!
- - 👯 Espero contribuir com minhas habilidades e conhecimentos adquiridos dentro da área da Tecnologia!
- 
- 
- <p><div align="center"></p>
+ - 👯 Espero contribuir com minhas habilidades e conhecimentos adquiridos dentro da área da Tecnologia!                                                                   <br>                                                                                                      </br>
+  <p><div align="center"></p>
  <p><img src="https://github-profile-trophy.vercel.app/?username=MaiaraSanto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>
                                                                     
 <div align="center">
