@@ -30,7 +30,6 @@
   <img align="center" alt="Maiara-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" alt="Maiara-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     
-   <img align="right" alt="Mari-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/106199899/180885259-ab5f7da6-92a2-48b3-82d4-d59351968dfa.png">
    </div align="center">  
  
  ##
@@ -45,7 +44,6 @@
    <a href="https://is.gd/pog8Tu" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://is.gd/uGaRKh" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%230077B5?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100069142017196" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/maysantos20" target="_blank"><img src="https://img.shields.io/badge/-Twitch-%230077B5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=pink)](https://public.tableau.com/app/profile/maiara.santos7831)
  
   </div align="center">    
