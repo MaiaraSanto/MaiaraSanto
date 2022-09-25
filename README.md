@@ -4,7 +4,7 @@
  - 🌱 Estudante de Desenvolvimento de Software na StackX!
  - 👯 Espero contribuir com minhas habilidades e conhecimentos adquiridos dentro da área da Tecnologia!                                                                   <br>                                                                                                      </br>
   <p><div align="center"></p>
- <p><img src="https://github-profile-trophy.vercel.app/?username=MaiaraSanto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>
+
                                                                     
 <div align="center">
   <a href="https://github.com/MAIARASANTO">
@@ -52,10 +52,10 @@
  
   </div align="center">
     
-  ![Snake animation](https://github.com/maiaraSanto/maiaraSanto/blob/output/github-contribution-grid-snake.svg )  
-   
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=MaiaraSanto&theme=react)](https://github.com/MaiaraSanto/MaiaraSanto ) 
-
+  ![Snake animation](https://github.com/maiaraSanto/maiaraSanto/blob/output/github-contribution-grid-snake.svg ) 
+  
+   <p><img src="https://github-profile-trophy.vercel.app/?username=MaiaraSanto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>
+ 
 <p align="end"> Total de Visitas no perfil :detective: <br> </p>
    <p align="end">
    <img alingn="end" src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />
