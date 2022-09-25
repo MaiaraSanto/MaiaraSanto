@@ -34,7 +34,7 @@
  
  ##
   
- </div align="right">      
+ </div align="center">      
  
  <a href="https://www.instagram.com/mayarahsant/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://is.gd/NuFOYu" target="_blank"><img src="https://img.shields.io/badge/gmail-%23FA0F00.svg?style=for-the-badge&logo=gmail&logoColor=white" />
