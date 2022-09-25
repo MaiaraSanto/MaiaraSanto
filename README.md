@@ -51,7 +51,7 @@
     
 <p align="end"> Total de Visitas  :detective: <br> </p>
    <p align="end">
-   <img alingn="end" src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />
+   <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />
    
       
     
