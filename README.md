@@ -28,7 +28,7 @@
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="Maiara-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="Maiara-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" alt="Maiara-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Maiara-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     
    </div align="center">  
  
