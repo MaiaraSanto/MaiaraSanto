@@ -1,5 +1,6 @@
  <h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, EU SOU MAIARA!!!</h1>
 
+
  - 🔭 Apaixonada por Programação!!!
  - 🌱 Estou migrando da área da Educação para o mundo da Tecnologia!
  - 🌱 Sou estudante de Desenvolvimento de Software na Edtech StackX!
@@ -7,7 +8,9 @@
  - 👯 Apresento-lhes meu Portfólio nas Linguagens ao qual estou me aprimorando!     
 
  
- ## 📊 &nbsp;Stats<br/>
+### 📊 &nbsp;STATS<br/>
+***
+  
  <div align="center">
                                                                                                       
  <p><img src="https://github-profile-trophy.vercel.app/?username=MaiaraSanto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                                  
@@ -20,10 +23,10 @@
 
  </div align="left">  
  
- ## 🛠 &nbsp;Tech Stack 
- 
+ ### 🛠 &nbsp;Tech Stack<br/>
+ ***
  </div>
-
+ 
 </div align="center">
    <div style="display: inline_block">
   <img align="center" alt="Maiara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -43,10 +46,10 @@
   <img align="center" alt="Maiara-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     
    </div align="center"> 
-   <br> 
+   <br>
  
- ## 🛠 &nbsp;Contact and Portfolios links
-  
+ ### 🛠 &nbsp;Contact and Portfolios links
+  ***
  </div align="center">      
  
  <a href="https://www.instagram.com/mayarahsant/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -59,7 +62,7 @@
  
  </div>      
  
-  ###
+  ***
   
   <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
