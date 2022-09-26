@@ -23,7 +23,7 @@
 
  </div align="left">  
  
- ### 🛠 &nbsp;Tech Stack<br/>
+ ### 🛠 &nbsp;TECH STACK<br/>
  ***
  </div>
  
@@ -48,7 +48,7 @@
    </div align="center"> 
    <br>
  
- ### 🛠 &nbsp;Contact and Portfolios links
+ ### 🛠 &nbsp;CONTACT AND PORTFOLIOS LINKS
   ***
  </div align="center">      
  
