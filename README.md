@@ -48,7 +48,7 @@
    </div align="center"> 
    <br>
  
- ### 🛠 &nbsp;CONTACT AND PORTFOLIOS LINKS
+ ### 🔎 &nbsp;CONTACT AND PORTFOLIOS LINKS
   ***
  </div align="center">      
  
