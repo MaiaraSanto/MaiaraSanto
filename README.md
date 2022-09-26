@@ -57,7 +57,7 @@
   <a href="https://is.gd/uGaRKh" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%230077B5?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=pink)](https://public.tableau.com/app/profile/maiara.santos7831)
  
- </div align="center">      
+ </div>      
  
   ###
   
