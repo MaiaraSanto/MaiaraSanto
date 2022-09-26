@@ -2,9 +2,18 @@
 
 - 🔭 Apaixonada por Programação!!!
  - 🌱 Estou migrando da área da Educação para o mundo da Tecnologia!
- - 🌱 Sou estudante de Desenvolvimento de Software na Edtech StackX!
- - 🌱 Atualmente estou focada em aprender Front End, JAVA e SQL!
- - 👯 Apresento-lhes meu Portfólio nas Linguagens ao qual estou me aprimorando!     
+ - 😄 Sou estudante de Desenvolvimento de Software na Edtech StackX!
+ - 😄 Atualmente estou focada em aprender Front End, JAVA e SQL!
+ - 👯 Apresento-lhes meu Portfólio nas Linguagens ao qual estou me aprimorando!  
+ 
+  </div>      
+ 
+  ***
+  
+  <div align="center">
+   <img height="380em" body min-height: "100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+
 
  
 ### 📊 &nbsp;STATS<br/>
@@ -18,7 +27,6 @@
   <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
 <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&theme=dark"/>                                        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
 </div>
-<br>
 
  </div align="left">  
  
@@ -58,15 +66,7 @@
    <a href="https://is.gd/pog8Tu" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://is.gd/uGaRKh" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%230077B5?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=pink)](https://public.tableau.com/app/profile/maiara.santos7831)
- 
- </div>      
- 
-  ***
   
-  <div align="center">
-   <img height="380em" body min-height: "100%" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
-</div>
- 
  <br>
 <p align="end"> Total de Visitas  :detective:  </p>
    <p align="end">
