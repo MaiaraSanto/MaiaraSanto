@@ -15,9 +15,10 @@
 <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&theme=dark"/>                                        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
 <div align="center">
 
-- Linguagens que tenho conhecimentos
+
   
 </div align="center">
+- Linguagens que tenho conhecimentos
    <div style="display: inline_block"><br>
   <img align="center" alt="Maiara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maiara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
