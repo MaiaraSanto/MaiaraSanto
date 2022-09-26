@@ -1,7 +1,6 @@
- <h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, EU SOU MAIARA!!!</h1>
+<h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, EU SOU MAIARA!!!</h1>
 
-
- - 🔭 Apaixonada por Programação!!!
+- 🔭 Apaixonada por Programação!!!
  - 🌱 Estou migrando da área da Educação para o mundo da Tecnologia!
  - 🌱 Sou estudante de Desenvolvimento de Software na Edtech StackX!
  - 🌱 Atualmente estou focada em aprender Front End, JAVA e SQL!
