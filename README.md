@@ -1,8 +1,10 @@
  <h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, EU SOU MAIARA!!!</h1>
 
  - 🔭 Apaixonada por Programação!!!
- - 🌱 Estudante de Desenvolvimento de Software na StackX!
- - 👯 Espero contribuir com minhas habilidades e conhecimentos adquiridos dentro da área da Tecnologia!     
+ - 🌱 Estou migrando da área da Educação para o mundo da Tecnologia!
+ - 🌱 Sou estudante de Desenvolvimento de Software na Edtech StackX!
+ - 🌱 Atualmente estou focada em aprender Front End, JAVA e SQL!
+ - 👯 Apresento-lhes meu Portfólio nas Linguagens ao qual estou me aprimorando!     
  
  <p><div align="center"></p>
  <br>                                                                                                      </br> 
@@ -11,7 +13,10 @@
   <a href="https://github.com/MAIARASANTO">
   <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
 <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&theme=dark"/>                                        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
-    
+<div align="center">
+
+- Linguagens que tenho conhecimentos
+  
 </div align="center">
    <div style="display: inline_block"><br>
   <img align="center" alt="Maiara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
