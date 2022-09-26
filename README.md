@@ -5,20 +5,27 @@
  - 🌱 Sou estudante de Desenvolvimento de Software na Edtech StackX!
  - 🌱 Atualmente estou focada em aprender Front End, JAVA e SQL!
  - 👯 Apresento-lhes meu Portfólio nas Linguagens ao qual estou me aprimorando!     
+ <br>
  
- <p><div align="center"></p>
- <br>                                                                                                      </br> 
+ ## 📊 &nbsp;Stats<br/>
+ <div align="center">
+                                                                                                      
  <p><img src="https://github-profile-trophy.vercel.app/?username=MaiaraSanto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                                  
 <div align="center">
   <a href="https://github.com/MAIARASANTO">
   <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
 <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&theme=dark"/>                                        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
-<div align="center">
+</div>
+<br>
 
+ </div align="left">  
+ 
+ ## 🛠 &nbsp;Tech Stack 
+ 
+ </div>
 
-  
 </div align="center">
-   <div style="display: inline_block"><br>
+   <div style="display: inline_block">
   <img align="center" alt="Maiara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maiara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Maiara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,9 +42,10 @@
   <img align="center" alt="Maiara-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Maiara-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     
-   </div align="center">  
+   </div align="center"> 
+   <br> 
  
- ##
+ ## 🛠 &nbsp;Contact and Portfolios links
   
  </div align="center">      
  
