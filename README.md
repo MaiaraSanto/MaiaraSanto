@@ -5,7 +5,7 @@
  - 🌱 Sou estudante de Desenvolvimento de Software na Edtech StackX!
  - 🌱 Atualmente estou focada em aprender Front End, JAVA e SQL!
  - 👯 Apresento-lhes meu Portfólio nas Linguagens ao qual estou me aprimorando!     
- <br>
+
  
  ## 📊 &nbsp;Stats<br/>
  <div align="center">
