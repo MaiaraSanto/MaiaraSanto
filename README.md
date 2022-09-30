@@ -11,7 +11,7 @@
   ***
   
   <div align="center">
-   <img height="380em"width="100%"src="https://i.giphy.com/media/JcFUHp7b9mnj5a01AN/giphy.webp"/>
+   <img height="380em"width="100%"src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 
 
@@ -21,7 +21,7 @@
   
  <div align="center">
                                                                                                       
- <p><img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/></p>                                                                  
+ <p><img src=""/></p>                                                                  
 <div align="center">
   <a href="https://github.com/MAIARASANTO">
   <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
