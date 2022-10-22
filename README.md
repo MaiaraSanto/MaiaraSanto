@@ -14,10 +14,11 @@
    <img height="380em"width="100%"src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 
-
+***
  
 ### 📊 &nbsp;STATS<br/>
-***
+
+#
   
  <div align="center">
                                                                                                       
@@ -28,10 +29,14 @@
 <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&theme=dark"/>                                        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
 </div>
 
- </div align="left">  
+ </div align="left"> 
+ 
+ ***
  
  ### 🛠 &nbsp;TECH STACK<br/>
- ***
+ 
+ #
+ 
  </div>
  
 </div align="center">
@@ -54,9 +59,13 @@
     
    </div align="center"> 
    <br>
+   
+   ***
  
  ### 🔎 &nbsp;CONTACT AND PORTFOLIOS LINKS
-  ***
+   
+   #
+   
  </div align="center">      
  
  <a href="https://www.instagram.com/mayarahsant/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -68,6 +77,9 @@
  [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=pink)](https://public.tableau.com/app/profile/maiara.santos7831)
   
  <br>
+ 
+ ***
+ 
 <p align="end"> Total de Visitas  :detective:  </p>
    <p align="end">
    <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />
