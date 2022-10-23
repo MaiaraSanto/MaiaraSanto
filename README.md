@@ -25,8 +25,8 @@
  <p><img src="https://github-profile-trophy.vercel.app/?username=MaiaraSanto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                                  
 <div align="center">
   <a href="https://github.com/MAIARASANTO">
-  <img height="250em", width "200em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
-<img height="250em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&theme=dark"/>                                        <p><img height="250em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
+  <img height="224em", width "200em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
+<img height="224em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&theme=dark"/>                                        <p><img height="224em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
 </div>
 
  </div align="left"> 
