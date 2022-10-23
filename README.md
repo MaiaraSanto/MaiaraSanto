@@ -1,6 +1,6 @@
 <h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, EU SOU MAIARA!!!</h1>
 
-- 🔭 Apaixonada por Programação!!! 
+- 🔭 Apaixonada por Programação!!!
  - 🌱 Estou migrando da área da Educação para o mundo da Tecnologia!
  - 😄 Sou estudante de Desenvolvimento de Software na Edtech StackX!
  - 😄 Atualmente estou focada em aprender Front End, JAVA e SQL!
@@ -25,8 +25,8 @@
  <p><img src="https://github-profile-trophy.vercel.app/?username=MaiaraSanto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                                  
 <div align="center">
   <a href="https://github.com/MAIARASANTO">
-  <img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
-<img height="200em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&theme=dark"/>                                        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
+  <img height="300em", width "200em" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark"/>
+<img height="300em", width "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&theme=dark"/>                                        <p><img height="300em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto" /></p>
 </div>
 
  </div align="left"> 
