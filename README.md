@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
+
 <h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, EU SOU MAIARA!!!</h1>
 
 - 🔭 Apaixonada por Programação!!!
