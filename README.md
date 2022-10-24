@@ -58,7 +58,7 @@ Olá! Sou Maiara Santos!!!!
   
   #
   
-<table align="center" align="right" height="279px"">
+<table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
@@ -301,8 +301,9 @@ Olá! Sou Maiara Santos!!!!
  </a>
     </td>
   </tr>
-</table>
-   
- </details open>                
+</table>   
+ </details open>  
+ 
+ ***
  
 
