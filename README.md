@@ -37,7 +37,10 @@ Olá! Sou Maiara Santos!!!!
 
 <h2 align="left">
 <details open>
-<summary> 🔮 <i>Status</i></summary><br>
+<summary> 🔮 <i>Status</i></summary>
+
+#
+
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
@@ -51,15 +54,17 @@ Olá! Sou Maiara Santos!!!!
 
 <h2 align="left">
 <details open>
-<summary> 🛠️ <i>Linguagens</i></summary><br>
+<summary> 🛠️ <i>Linguagens</i></summary>
+
+#
 
 <table align="center" height="279px" width="200%">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
       <sub>
         <b>
-          <pre>Terminal</pre>
+          <pre>MySQL</pre>
         </b>
       </sub>
     </td>
@@ -95,8 +100,6 @@ Olá! Sou Maiara Santos!!!!
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
       <sub>
@@ -106,10 +109,10 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="styled-components icon"/><br>
+      <img src="https://skillicons.dev/icons?i=postgresql" width="60px" alt="PsotgreSQL icon"/><br>
       <sub>
         <b>
-          <pre>Styled<br>Components</pre>
+          <pre>PsotgreSQL</pre>
         </b>
       </sub>
     </td>
@@ -137,8 +140,6 @@ Olá! Sou Maiara Santos!!!!
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
       <sub>
@@ -156,10 +157,10 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br>
       <sub>
         <b>
-          <pre>ExpressJS</pre>
+          <pre>Typescript</pre>
         </b>
       </sub>
     </td>
@@ -179,8 +180,6 @@ Olá! Sou Maiara Santos!!!!
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
       <sub>
@@ -198,10 +197,18 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="linux icon"/><br>
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
       <sub>
         <b>
-          <pre>Linux</pre>
+          <pre>JAVA</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=scss" width="65px" alt="SCSS icon"/><br>
+      <sub>
+        <b>
+          <pre>SCSS</pre>
         </b>
       </sub>
     </td>
