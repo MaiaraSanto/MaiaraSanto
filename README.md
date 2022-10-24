@@ -29,7 +29,7 @@ Olá! Sou Maiara Santos!!!!
  
  <div align="center"> 
    
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="480em" width="100%" >
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400em" width="100%" >
 </div>
 <br>
 
@@ -58,7 +58,7 @@ Olá! Sou Maiara Santos!!!!
 
 #
 
-<table align="center" height="279px" width="200%">
+<table align="center" align="right" height="279px"">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
