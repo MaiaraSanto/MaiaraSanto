@@ -41,8 +41,8 @@ Olá! Sou Maiara Santos!!!!
  
    <p><img src="https://github-profile-trophy.vercel.app/?username=MaiaraSanto&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>  
   <a href="https://github.com/MaiaraSanto">
- <img height="250em", width "250em" src="https://github-readme-stats.vercel.app/api?username=RafaRz76Dev&show_icons=true&theme=dark"/>
- <img height="250em", width "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRz76Dev&theme=dark"/>    
+ <img height="200em", width "250em" src="https://github-readme-stats.vercel.app/api?username=RafaRz76Dev&show_icons=true&theme=dark"/>
+ <img height="200em", width "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaRz76Dev&theme=dark"/>    
  
   <p><img height="250em" width "250em" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaRz76Dev&theme=dark" alt="RafaRz76Dev" /></p>
   
