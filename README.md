@@ -44,7 +44,7 @@ Olá! Sou Maiara Santos!!!!
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&show_icons=true&theme=dark">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto">
 </div>
-</details>
+
    
                  
  
