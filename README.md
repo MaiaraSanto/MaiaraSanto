@@ -37,10 +37,8 @@ Olá! Sou Maiara Santos!!!!
 
 <h2 align="left">
 <details open>
-<summary> 🔮 <i>Status</i></summary>
-
-#
-
+  <summary> 🔮 <i>STATUS</i></summary> </h2>
+  
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
@@ -54,10 +52,8 @@ Olá! Sou Maiara Santos!!!!
 
 <h2 align="left">
 <details open>
-<summary> 🛠️ <i>Linguagens</i></summary>
-
-#
-
+  <summary> 🛠️ <i>LINGUAGENS</i></summary> </h2>
+  
 <table align="center" align="right" height="279px"">
   <tr>
     <td align="center">
@@ -222,11 +218,87 @@ Olá! Sou Maiara Santos!!!!
     </td>
   </tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
+                                                                                                                                                      
+***
+  
+ <h2 align="left">
+<details open>
+  <summary> 🗃️ <i>PROJETOS</i></summary> </h2>
+    <br>                                                                                                                                                 
+<img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image" tokyonight&hidedark_border=true>
+<table height="495px">
+    <tr>
+    <td>
+    <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=StackX-List-Angular&theme=tokyonight&hidedark_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/MaiaraSanto/Student-StackX-React" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Student-StackX-React&theme=tokyonight&hidedark_border=true">
+   </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MaiaraSanto/STACKLIST-STACKX-REACT" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=STACKLIST-STACKX-REACT&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/PL-SQL" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=PL-SQL&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/NLW-SPORTS-EXPLORER" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=NLW-SPORTS-EXPLORER&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Joguinho-do-Canvas" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Joguinho-do-Canvas&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/demo-dao-jdbc" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=demo-dao-jdbc&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Projeto-Tiflux" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Projeto-Tiflux&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Java-Logica-de-Programacao" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Java-Logica-de-Programacao&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Students-React" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Students-React&theme=tokyonight&hidedark_border=true">   
+ </a>
+    </td>
+  </tr>
+</table>
    
-                 
+ </details open>                
  
 
