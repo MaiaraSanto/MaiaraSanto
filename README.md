@@ -37,7 +37,7 @@ Olá! Sou Maiara Santos!!!!
 
 <h2 align="left">
 <details open>
-  <summary> 🔮 <i>STATUS</i></summary> </h2>
+  <summary> 🔮 <i>STATUS</i></summary> 
   
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
@@ -52,7 +52,7 @@ Olá! Sou Maiara Santos!!!!
 
 <h2 align="left">
 <details open>
-  <summary> 🛠️ <i>LINGUAGENS</i></summary> </h2>
+  <summary> 🛠️ <i>LINGUAGENS</i></summary> 
   
 <table align="center" align="right" height="279px"">
   <tr>
