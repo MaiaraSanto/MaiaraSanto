@@ -37,7 +37,7 @@ Olá! Sou Maiara Santos!!!!
 
 # 🔮 <i>Status</i>
 
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&show_icons=true&theme=dark">
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&show=true&theme=dark">
 <div align="right">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=dark">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=dark" alt="MaiaraSanto">
