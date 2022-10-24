@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
 Olá! Sou Maiara Santos!!!!  
-  <h2> Developer </h2>
+  <h2> Futura Developer </h2>
   
   <table align="center">
   <tr>
@@ -37,7 +37,7 @@ Olá! Sou Maiara Santos!!!!
 
 <h2 align="left">
 <details open>
-<summary> 🔮 <i>status</i></summary><br>
+<summary> 🔮 <i>Status</i></summary><br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
@@ -49,9 +49,11 @@ Olá! Sou Maiara Santos!!!!
 
 ***
 
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="280px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="279px">
+<h2 align="left">
+<details open>
+<summary> 🛠️ <i>Linguagens</i></summary><br>
+
+<table align="center" height="279px" width="200%">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
@@ -215,10 +217,6 @@ Olá! Sou Maiara Santos!!!!
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="185px" src="./oh-ok.gif" alt="anime coding">
-<br><br>
-<p align="center">
 
 
    
