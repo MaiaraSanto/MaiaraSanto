@@ -217,8 +217,8 @@ Olá! Sou Maiara Santos!!!!
       <sub>
         <b>
           <pre>Windows</pre>
-        </b>
-      </sub>
+        
+    
     </td>
   </tr>
 </table>
