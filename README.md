@@ -1,5 +1,18 @@
 <h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, EU SOU MAIARA!!!</h1>
 
+<table align="center">
+  <tr>
+    <td>
+      <b>
+        <a href="README.md">🇧🇷 Português</a>
+      </b>
+    </td>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+</table>
+
 - 🔭 Apaixonada por Programação!!!
  - 🌱 Estou migrando da área da Educação para o mundo da Tecnologia!
  - 😄 Sou estudante de Desenvolvimento de Software na Edtech StackX!
@@ -83,6 +96,21 @@
 <p align="end"> Total de Visitas  :detective:  </p>
    <p align="end">
    <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />
+   
+   <!--
+🔭 Passionate about Programming!!!
+🌱 I'm migrating from the Education area to the Technology world!
+😄 I'm a Software Development student at Edtech StackX!
+😄 I'm currently focused on learning Front End, JAVA and SQL!
+👯 I present to you my Portfolio in Languages which I am improving myself!<a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
+</a>
+
+https://www.fancytextconverter.com/
+
+- use SVGs in a next big update.
+
+-->
    
    
       
