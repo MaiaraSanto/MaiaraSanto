@@ -38,8 +38,8 @@ Olá! Sou Maiara Santos!!!!
 # 🔮 <i>Status</i>
 <img align="left" height="399px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=9&theme=tokyonight&hidedark_border=true">
 <div align="right">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hidedark_border=true">
+<img height="199px" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
+<img height="199px" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hidedark_border=true">
 </div>
 
 
