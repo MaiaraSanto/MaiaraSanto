@@ -371,7 +371,7 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <img src="https://skillicons.dev/icons?i=telegram" width="65px" alt="Telegram icon"/><br>
       <sub>
         <br>
           <pre>Bootstrap</pre>
