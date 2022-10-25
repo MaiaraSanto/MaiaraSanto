@@ -61,163 +61,163 @@ Olá! Sou Maiara Santos!!!!
 <table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>MySQL</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>Javascript</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>&ensp;CSS3&ensp;</pre>
-        </br>
+        </b>
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>HTML5</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>&emsp;Git&emsp;</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>ReactJS</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="60px" alt="PsotgreSQL icon"/><br>
+      <img src="https://skillicons.dev/icons?i=postgresql" width="60px" alt="PsotgreSQL icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>PsotgreSQL</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>NodeJS</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>Bootstrap</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>JQuery</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>ViteJS</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
+    <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>&ensp;CRA&ensp;</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>Typescript</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>Yarn/npm</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>&ensp;Axios&ensp;</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>Insomnia</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>VSCode</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>JAVA</pre>
-        </br>
+        </b>
       </sub>
     </td>
      <td align="center">
-      <img src="https://skillicons.dev/icons?i=scss" width="65px" alt="SCSS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=scss" width="65px" alt="SCSS icon"/><br><br>
       <sub>
-        <br>
+        <b>
           <pre>SCSS</pre>
-        </br>
+        </b>
       </sub>
     </td>                                                                           
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br><br>
       <sub>
-       <br> 
+       <b> 
       <pre>Windows</pre>
-      </br> 
+      </b> 
     <sub>
     </td>
   </tr>
@@ -315,59 +315,51 @@ Olá! Sou Maiara Santos!!!!
  <table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
-       <a  href=https://www.linkedin.com/in/maiarasantos25/><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br>
+       <a  href=https://www.linkedin.com/in/maiarasantos25/><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br><br>
       <sub>
-        <br>
+        <b>
           <pre>Linkedin</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <a  href="https://www.instagram.com/mayarahsant/"><img src="https://skillicons.dev/icons?i=instagram"  width="65px" alt=" Instagram icon"/></a><br>
+      <a  href="https://www.instagram.com/mayarahsant/"><img src="https://skillicons.dev/icons?i=instagram"  width="65px" alt=" Instagram icon"/></a><br><br>
       <sub>
-        <br>
+        <b>
           <pre>Instagram</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-     <a  href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord"  width="65px" alt=" Discord icon"/></a><br>
+     <a  href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord"  width="65px" alt=" Discord icon"/></a><br><br>
       <sub>
-        <br>
+        <b>
           <pre>Discord</pre>
-        </br>
+        </b>
       </sub>
     </td>
         <td align="center">
-        <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Ol%C3%A1!%20Gostaria%20de%20conversar%20contigo."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.PNG" width="75px" alt=" whatsapp icon"/></a><br>
+        <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Ol%C3%A1!%20Gostaria%20de%20conversar%20contigo."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.PNG" width="75px" alt=" whatsapp icon"/></a><br><br>
       <sub>
-        <br>
+        <b>
           <pre>WhatsApp</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center" width="100px;">
-       <a href="https://www.facebook.com/profile.php?id=100069142017196"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/face.PNG" width="75px" alt=" Facebook icon"/></a><br>
+       <a href="https://www.facebook.com/profile.php?id=100069142017196"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/face.PNG" width="75px" alt=" Facebook icon"/></a><br><br>
       <sub>
-        <br>
+        <b>
           <pre>Facebook</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=Gmail" width="65px" alt="Gmail icon"/><br>
+       <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/gmail.PNG" width="75px" alt=" Gmail icon"/></a><br><br>
       <sub>
-        <br>
-          <pre>ReactJS</pre>
-        </br>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="60px" alt="PsotgreSQL icon"/><br>
-      <sub>
-        <br>
-          <pre>PsotgreSQL</pre>
-        </br>
+        <b>
+          <pre>&ensp;Gmail&ensp;</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
