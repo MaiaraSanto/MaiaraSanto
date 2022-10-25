@@ -315,7 +315,7 @@ Olá! Sou Maiara Santos!!!!
  <table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
-       <a  href="https://www.linkedin.com/in/rafael-raizer/"><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br>
+       <a  href=https://www.linkedin.com/in/maiarasantos25/><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br>
       <sub>
         <br>
           <pre>Linkedin</pre>
@@ -323,18 +323,18 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <a  href="https://www.instagram.com/mayarahsant/"><img src="https://skillicons.dev/icons?i=instagram"  width="65px" alt=" Instagram icon"/></a><br>
       <sub>
         <br>
-          <pre>Javascript</pre>
+          <pre>Instagram</pre>
         </br>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+     <a  href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord"  width="65px" alt=" Discord icon"/></a><br>
       <sub>
         <br>
-          <pre>&ensp;CSS3&ensp;</pre>
+          <pre>Discord</pre>
         </br>
       </sub>
     </td>
