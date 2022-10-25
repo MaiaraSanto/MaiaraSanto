@@ -347,7 +347,7 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center" width="100px;">
-       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/></a><br>
+       <img src="https://skillicons.dev/icons?i=Facebook" width="65px" alt="Facebook icon"/></a><br>
       <sub>
         <br>
           <pre>&emsp;Git&emsp;</pre>
