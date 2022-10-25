@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
-Olá! Sou Maiara Santos!!!!  
-  <h2> 💻 Futura Developer </h2>
+  <I>Olá! Sou Maiara Santos!!</I>  
+  <h2> 💻 <I>Futura Developer</I> </h2>
   
   <table align="center">
   <tr>
@@ -16,13 +16,13 @@ Olá! Sou Maiara Santos!!!!
 </table>
 
 
-◾ 🖥️ Apaixonada por Tecnologia!!!!
+◾ 🖥️ <I>Apaixonada por Tecnologia!!</I>
 
-◾ 📚 Estudante de Desenvolvimento de Software na Editech StackX!!!
+◾ 📚 <I>Estudante de Desenvolvimento de Software na Editech StackX!!</I>
 
-◾ 💡 Atualmente estou focada em aprender Linguagem em Front End, Java E SQL(Banco de Dados!!
+◾ 💡 <I>Atualmente estou focada em aprender Linguagens em Front End, Java E SQL(Banco de Dados!!</I>
 
-◾ 🥰 Apresento-lhes aqui meu portfólio nas Linguagens ao qual estou me aprofundando! 
+◾ 🥰 <I>Apresento-lhes aqui meu portfólio nas Linguagens ao qual estou me aprofundando!</I>
  </div> 
  
  ***
