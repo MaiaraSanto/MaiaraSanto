@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
 Olá! Sou Maiara Santos!!!!  
-  <h2> Futura Developer </h2>
+  <h2> 💻 Futura Developer </h2>
   
   <table align="center">
   <tr>
@@ -34,12 +34,9 @@ Olá! Sou Maiara Santos!!!!
 <br>
 
 ***
-
 <h2 align="left">
 <details open>
-  <summary> 🔮 <i>STATUS</i></summary> 
-  
-  #
+  <summary>🔮<i>STATUS</i></summary> </h2>
   
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
@@ -54,7 +51,7 @@ Olá! Sou Maiara Santos!!!!
 
 <h2 align="left">
 <details open>
-  <summary> 🛠️ <i>LINGUAGENS</i></summary> 
+  <summary>🛠️<i>LINGUAGENS</i></summary> 
   
   #
   
@@ -224,11 +221,12 @@ Olá! Sou Maiara Santos!!!!
 </table>
                                                                                                                                                       
 ***
-  
- <h2 align="left">
+  <h2 align="left">
 <details open>
-  <summary> 🗃️ <i>PROJETOS</i></summary> </h2>
-    <br>                                                                                                                                                 
+  <summary>🗃️<i>PROJETOS</i></summary>
+  
+  #
+                       
 <img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
 <table height="495px">
     <tr>
@@ -308,7 +306,7 @@ Olá! Sou Maiara Santos!!!!
  
  <h2 align="left">
 <details open>
-  <summary> 📩 <i>Contatos</i></summary> 
+  <summary>📩<i>CONTATOS</i></summary> 
   
 #
  
@@ -371,92 +369,21 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/g.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
+      <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Twitch.tv</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+     <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/g.PNG" width="75px" alt=" gmail icon"/></a><br><br>
       <sub>
         <b>
           <pre>Gmail</pre>
         </b>
       </sub>
     </td>
-    <td align="center">
-     <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/g.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
-      <sub>
-        <br>
-          <pre>ViteJS</pre>
-        </br>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
-      <sub>
-        <br>
-          <pre>&ensp;CRA&ensp;</pre>
-        </br>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br>
-      <sub>
-        <br>
-          <pre>Typescript</pre>
-        </br>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
-      <sub>
-        <br>
-          <pre>Yarn/npm</pre>
-        </br>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
-      <sub>
-        <br>
-          <pre>&ensp;Axios&ensp;</pre>
-        </br>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
-      <sub>
-        <br>
-          <pre>Insomnia</pre>
-        </br>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
-      <sub>
-        <br>
-          <pre>VSCode</pre>
-        </br>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
-      <sub>
-        <br>
-          <pre>JAVA</pre>
-        </br>
-      </sub>
-    </td>
-     <td align="center">
-      <img src="https://skillicons.dev/icons?i=scss" width="65px" alt="SCSS icon"/><br>
-      <sub>
-        <br>
-          <pre>SCSS</pre>
-        </br>
-      </sub>
-    </td>                                                                           
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
-      <sub>
-       <br> 
-      <pre>Windows</pre>
-      </br> 
-    <sub>
     </td>
   </tr>
 </table>
