@@ -355,7 +355,7 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=Gmail" width="65px" alt="Gmail icon"/><br>
       <sub>
         <br>
           <pre>ReactJS</pre>
