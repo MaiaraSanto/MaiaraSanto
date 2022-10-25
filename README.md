@@ -339,7 +339,7 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
         <td align="center">
-        <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Entre%20em%20contato%20com%20Maiara%20Santos%20atrav%C3%A9s%20deste%20n%C3%BAmero."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.PNG" width="85px" alt=" whatsapp icon"/></a><br>
+        <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Ol%C3%A1!%20Gostaria%20de%20conversar%20contigo."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.PNG" width="75px" alt=" whatsapp icon"/></a><br>
       <sub>
         <br>
           <pre>WhatsApp</pre>
