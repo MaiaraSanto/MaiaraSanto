@@ -359,8 +359,9 @@ Olá! Sou Maiara Santos!!!!
       <sub>
         <b>
           <pre>&ensp;Gmail&ensp;</pre>
-        <sub>
-        <b>   
+        </b>
+      </sub>
+    </td>   
     <td align="center">
       <a href="https://is.gd/F6WJro"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
       <sub>
