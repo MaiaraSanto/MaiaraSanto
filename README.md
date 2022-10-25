@@ -371,11 +371,11 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=telegram" width="65px" alt="Telegram icon"/><br>
+      <a href="https://is.gd/F6WJro"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
       <sub>
-        <br>
-          <pre>Bootstrap</pre>
-        </br>
+        <b>
+          <pre>Telegram</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
