@@ -353,14 +353,6 @@ Olá! Sou Maiara Santos!!!!
           <pre>Facebook</pre>
         </b>
       </sub>
-    </td>
-    <td align="center">
-       <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/gmail.PNG" width="75px" alt=" Gmail icon"/></a><br><br>
-      <sub>
-        <b>
-          <pre>&ensp;Gmail&ensp;</pre>
-        </b>
-      </sub>
     </td>   
     <td align="center">
       <a href="https://is.gd/F6WJro"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
@@ -379,11 +371,11 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
+      <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
       <sub>
-        <br>
+        <b>
           <pre>JQuery</pre>
-        </br>
+        </b>
       </sub>
     </td>
     <td align="center">
