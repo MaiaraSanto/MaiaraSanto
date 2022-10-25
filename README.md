@@ -363,11 +363,11 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+      <a href="https://is.gd/F6WJro"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
       <sub>
-        <br>
-          <pre>NodeJS</pre>
-        </br>
+        <b>
+          <pre>Yahoo</pre>
+        </b>
       </sub>
     </td>
     <td align="center">
