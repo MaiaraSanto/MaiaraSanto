@@ -374,12 +374,12 @@ Olá! Sou Maiara Santos!!!!
       <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/g.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
       <sub>
         <b>
-          <pre>JQuery</pre>
+          <pre>Gmail</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
+     <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/g.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
       <sub>
         <br>
           <pre>ViteJS</pre>
