@@ -371,7 +371,7 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
+      <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/g.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
       <sub>
         <b>
           <pre>JQuery</pre>
