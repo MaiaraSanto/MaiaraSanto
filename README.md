@@ -339,7 +339,7 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.PNG" width="85px" alt=" whatsapp icon"/><br>
       <sub>
         <br>
           <pre>HTML5</pre>
@@ -347,7 +347,7 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+       <a "https://api.whatsapp.com/send?phone=5575991050049&text=Entre%20em%20contato%20com%20Maiara%20Santos%20atrav%C3%A9s%20deste%20n%C3%BAmero."><img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/></a><br>
       <sub>
         <br>
           <pre>&emsp;Git&emsp;</pre>
