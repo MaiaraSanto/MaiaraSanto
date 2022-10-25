@@ -315,7 +315,7 @@ Olá! Sou Maiara Santos!!!!
  <table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon" href="https://www.linkedin.com/in/rafael-raizer/"/><br>
+       <a  href="https://www.linkedin.com/in/rafael-raizer/"><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br>
       <sub>
         <br>
           <pre>Linkedin</pre>
