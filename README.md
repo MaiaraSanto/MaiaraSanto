@@ -347,10 +347,10 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center" width="100px;">
-       <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Ol%C3%A1!%20Gostaria%20de%20conversar%20contigo."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/face.PNG" width="75px" alt=" Facebook icon"/></a><br>
+       <a href="https://www.facebook.com/profile.php?id=100069142017196"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/face.PNG" width="75px" alt=" Facebook icon"/></a><br>
       <sub>
         <br>
-          <pre>&emsp;Git&emsp;</pre>
+          <pre>Facebook</pre>
         </br>
       </sub>
     </td>
