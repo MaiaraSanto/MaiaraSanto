@@ -359,9 +359,8 @@ Olá! Sou Maiara Santos!!!!
       <sub>
         <b>
           <pre>&ensp;Gmail&ensp;</pre>
-        </b>
-      </sub>
-    </td>
+        <sub>
+        <b>   
     <td align="center">
       <a href="https://is.gd/F6WJro"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
       <sub>
@@ -371,7 +370,7 @@ Olá! Sou Maiara Santos!!!!
       </sub>
     </td>
     <td align="center">
-      <a href="https://is.gd/F6WJro"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
+      <a href="https://is.gd/maiarasantostelegram"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
       <sub>
         <b>
           <pre>Telegram</pre>
