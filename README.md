@@ -16,13 +16,13 @@ Olá! Sou Maiara Santos!!!!
 </table>
 
 
-◾ 🔭 Apaixonada por Tecnologia!!!!
+◾ 🖥️ Apaixonada por Tecnologia!!!!
 
-◾ 🚀 Estudante de Desenvolvimento de Software na Editech StackX!!!
+◾ 📚 Estudante de Desenvolvimento de Software na Editech StackX!!!
 
-◾ ☕ Atualmente estou focada em aprender Linguagem em Front End, Java E SQL(Banco de Dados!!
+◾ 💡 Atualmente estou focada em aprender Linguagem em Front End, Java E SQL(Banco de Dados!!
 
-◾ 🤠 Apresento-lhes aqui meu portfólio nas Linguagens ao qual estou me aprofundando! 
+◾ 🥰 Apresento-lhes aqui meu portfólio nas Linguagens ao qual estou me aprofundando! 
  </div> 
  
  ***
