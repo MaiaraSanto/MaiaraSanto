@@ -1,43 +1,74 @@
-<img align="left" width="100%" alt="about" src="./headerBackground-en.gif"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<h2 align="center">📇 &ensp; <i>Ａｂｏｕｔ</i></h2>
-<img align="right" src="./analysis.gif" width="395px" alt="anime chilling">
-<table align="center">
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
+  <I>Olá! Sou Maiara Santos!!</I>  
+  <h2> 💻 <I>Futura Developer</I> </h2>
+  
+  <table align="center">
   <tr>
     <td>
-      <a href="README.md">🇧🇷 Português</a>
+      <b>
+        <a href="README.md">🇧🇷 Português</a>
+      </b>
     </td>
     <td>
-      <b>
-        <a href="readme-en.md">🇺🇸 English</a>
-      </b>
+      <a href="readme-en.md">🇺🇸 English</a>
     </td>
   </tr>
 </table>
-<ul align="left">
-    <li>🤩️ Passionate about Technology, Animes and Lo-Fi.</li>
-    <li>💻 I currently study at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me" target ="_blank">DIO<a/>, but I've been through <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Video Course</a> and <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
-    <li>🔭 To further expand my Stack and portfolio, I am constantly acquiring new skills and developing projects.</li>
-    <li>🔮 I'm specializing in Front-end, but I have a good understanding of Back-end, as my long-term goal is to become Full-Stack.</li>
-    <li>🚀 Currently getting deeper into: <b>ReactJS</b> and <b>Javascript</b>.</li>
-</ul>
+
+
+◾ 🖥️ <I>Apaixonada por Tecnologia!!</I>
+
+◾ 📚 <I>Estudante de Desenvolvimento de Software na Editech StackX!!</I>
+
+◾ 💡 <I>Atualmente estou focada em aprender Linguagens em Front End, Java E SQL(Banco de Dados!!</I>
+
+◾ 🥰 <I>Apresento-lhes aqui meu portfólio nas Linguagens ao qual estou me aprofundando!</I>
+ </div> 
+ 
+ ***
+ 
+ <div align="center"> 
+   
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400em" width="100%" >
+</div>
 <br>
 
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
-<img align="left" width="410px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="410px">
+***
+<h2 align="left">
+<details open>
+  <summary>🔮<i>STATUS</i></summary> 
+  
+  #
+  
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
+<br><br>
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
+<div align="right">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hidedark_border=true">
+</div>
+</details>
+
+***
+
+<h2 align="left">
+<details open>
+  <summary>🛠️<i>LINGUAGENS</i></summary> 
+  
+  #
+  
+<table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br><br>
       <sub>
         <b>
-          <pre>Terminal</pre>
+          <pre>MySQL</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br><br>
       <sub>
         <b>
           <pre>Javascript</pre>
@@ -45,7 +76,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br><br>
       <sub>
         <b>
           <pre>&ensp;CSS3&ensp;</pre>
@@ -53,7 +84,7 @@
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br><br>
       <sub>
         <b>
           <pre>HTML5</pre>
@@ -61,17 +92,15 @@
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br><br>
       <sub>
         <b>
           <pre>&emsp;Git&emsp;</pre>
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br><br>
       <sub>
         <b>
           <pre>ReactJS</pre>
@@ -79,15 +108,15 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="styled-components icon"/><br>
+      <img src="https://skillicons.dev/icons?i=postgresql" width="60px" alt="PsotgreSQL icon"/><br><br>
       <sub>
         <b>
-          <pre>Styled<br>Components</pre>
+          <pre>PsotgreSQL</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br><br>
       <sub>
         <b>
           <pre>NodeJS</pre>
@@ -95,7 +124,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br><br>
       <sub>
         <b>
           <pre>Bootstrap</pre>
@@ -103,17 +132,15 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br><br>
       <sub>
         <b>
           <pre>JQuery</pre>
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br><br>
       <sub>
         <b>
           <pre>ViteJS</pre>
@@ -121,7 +148,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br>
+    <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="65px" alt="Create React App icon"/><br><br>
       <sub>
         <b>
           <pre>&ensp;CRA&ensp;</pre>
@@ -129,15 +156,15 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br><br>
       <sub>
         <b>
-          <pre>ExpressJS</pre>
+          <pre>Typescript</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br><br>
       <sub>
         <b>
           <pre>Yarn/npm</pre>
@@ -145,17 +172,15 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br><br>
       <sub>
         <b>
           <pre>&ensp;Axios&ensp;</pre>
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br><br>
       <sub>
         <b>
           <pre>Insomnia</pre>
@@ -163,7 +188,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br><br>
       <sub>
         <b>
           <pre>VSCode</pre>
@@ -171,157 +196,243 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="linux icon"/><br>
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br><br>
       <sub>
         <b>
-          <pre>Linux</pre>
+          <pre>JAVA</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=scss" width="65px" alt="SCSS icon"/><br><br>
+      <sub>
+        <b>
+          <pre>SCSS</pre>
+        </b>
+      </sub>
+    </td>                                                                           
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br><br>
+      <sub>
+       <b> 
+      <pre>Windows</pre>
+     </b>
+      </sub>
+    </td>
+    </td>
+  </tr>
+</table>
+                                                                                                                                                 
+***
+  <h2 align="left">
+<details open>
+  <summary>🗃️<i>PROJETOS</i></summary>
+  
+  #
+                       
+<img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
+<table height="495px">
+    <tr>
+    <td>
+    <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=StackX-List-Angular&theme=tokyonight&hidedark_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/MaiaraSanto/Student-StackX-React" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Student-StackX-React&theme=tokyonight&hidedark_border=true">
+   </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MaiaraSanto/STACKLIST-STACKX-REACT" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=STACKLIST-STACKX-REACT&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/PL-SQL" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=PL-SQL&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/NLW-SPORTS-EXPLORER" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=NLW-SPORTS-EXPLORER&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Joguinho-do-Canvas" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Joguinho-do-Canvas&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/demo-dao-jdbc" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=demo-dao-jdbc&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Projeto-Tiflux" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Projeto-Tiflux&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Java-Logica-de-Programacao" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Java-Logica-de-Programacao&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Students-React" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Students-React&theme=tokyonight&hidedark_border=true">   
+ </a>
+    </td>
+  </tr>
+</table>   
+ </details open>  
+ 
+ ***
+ 
+ <h2 align="left">
+<details open>
+  <summary>📩<i>CONTATOS</i></summary> 
+  
+#
+ 
+ <table align="center" align="right" height="279px" border: "border-width">
+  <tr>
+    <td align="center">
+       <a  href=https://www.linkedin.com/in/maiarasantos25/><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Linkedin</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
+      <a  href="https://www.instagram.com/mayarahsant/"><img src="https://skillicons.dev/icons?i=instagram"  width="65px" alt=" Instagram icon"/></a><br><br>
       <sub>
         <b>
-          <pre>Windows</pre>
+          <pre>Instagram</pre>
         </b>
       </sub>
     </td>
-  </tr>
-</table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<h2 align="center">📩 &ensp; Ｃｏｎｔａｃｔ</h2>
-<img align="left" width="260px" src="./oh-ok.gif" alt="anime coding">
-<br><br><br>
-<p align="center">
-  <a href="https://export-download.canva.com/NskEY/DAFOAmNskEY/103/0-37189062837.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20221005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221005T102753Z&X-Amz-Expires=26369&X-Amz-Signature=e9736a0c26ddc834157637bb3af1e3ffa4e1c9fc28f456d924dcc37c1843e300&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Lucas-Maciel-curr%25C3%25ADculo-frontend-v1.4.pdf&response-expires=Wed%2C%2005%20Oct%202022%2017%3A47%3A22%20GMT">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="resume">
-  </a>
-  <a href="mailto:luk4xm4ci3l@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/lucasmacielf/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-  <a href="https://t.me/lu_k4x" alt="Telegram" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
-  </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20feel%20free%20to%20contact%20me." alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
-  </a>
-  <a href="https://www.instagram.com/lu_k4x/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
-  </a>
-  <a href="https://line.me/ti/p/9DbuEDA6O7" alt="line" target="_blank">
-    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="line">
-  </a>
-  <a href="https://stackoverflow.com/users/18881418/lucas-maciel" alt="stack overflow" target="_blank">
-    <img src="https://user-images.githubusercontent.com/86276393/194973392-6c133c92-13a3-4659-8fb1-08073cd1b417.png" alt="line">
-  </a>
-  <img src="https://user-images.githubusercontent.com/86276393/177438405-e828976c-3773-4b4e-a3f3-dc888c759003.png" alt="discord">
-</p>
-<br><br><br><br><br>
-
-<h2 align="center">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
-<img align="right" src="./projects-wallpaper.gif" height="651px" alt="projects image">
-<table height="650px">
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/iManager" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=iManager&theme=tokyonight&hide_border=true">
-    </a>
+    <td align="center">
+     <a  href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord"  width="65px" alt=" Discord icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Discord</pre>
+        </b>
+      </sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/dev-burger-order-log-interface" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-burger-order-log-interface&theme=tokyonight&hide_border=true">
-  </a>
+        <td align="center">
+        <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Ol%C3%A1!%20Gostaria%20de%20conversar%20contigo."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.png" width="75px" alt=" whatsapp icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>WhatsApp</pre>
+        </b>
+      </sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-     <a href="https://github.com/Luk4x/viaCEP-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=viaCEP-API&theme=tokyonight&hide_border=true">
-    </a>
+    <td align="center" width="100px;">
+       <a href="https://www.facebook.com/profile.php?id=100069142017196"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/facebook.png" width="75px" alt=" Facebook icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Facebook</pre>
+        </b>
+      </sub>
+    </td>   
+    <td align="center">
+      <a href="https://is.gd/maiarayahoo"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Yahoo</pre>
+        </b>
+      </sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/devClub-convert-money" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=devClub-convert-money&theme=tokyonight&hide_border=true">
-    </a>
+    <td align="center">
+      <a href="https://is.gd/maiarasantostelegram"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.png" width="75px" alt=" Telegram icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Telegram</pre>
+        </b>
+      </sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/user-register-interface" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=user-register-interface&theme=tokyonight&hide_border=true">
-    </a>
+    <td align="center">
+      <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.png" width="75px" alt=" Twitch icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Twitch.tv</pre>
+        </b>
+      </sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/playstation-store" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=playstation-store&theme=tokyonight&hide_border=true">
-    </a>
+    <td align="center">
+      <a href="https://is.gd/maiaracelular"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/cell.PNG" width="75px" alt=" Celular icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Celular</pre>
+        </b>
+      </sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/project-collor" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
-    </a>
+     <td align="center">
+      <a href="https://is.gd/maiarasms"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/sms.png" width="75px" alt=" SMS icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>&ensp;SMS&ensp;</pre>
+        </b>
+      </sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/dev-burger-order-log-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=dev-burger-order-log-API&theme=tokyonight&hide_border=true">
-    </a>
+    <td align="center">
+     <a href="https://is.gd/maiaragmail"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/gmail.png" width="75px" alt=" gmail icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Gmail</pre>
+        </b>
+      </sub>
     </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/projeto-calculadora" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=projeto-calculadora&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/Luk4x/user-register-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=user-register-API&theme=tokyonight&hide_border=true">
-    </a>
     </td>
   </tr>
 </table>
-<br>
 
-<h2 align="center">
-<details open>
-<summary>📈 &ensp; Ａｃｔｉｖｉｔｙ</summary>
-<br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Luk4x&theme=tokyo-night&hide_border=true">
-<br><br>
-<img align="left" height="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="240px" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
-</div>
-</details>
+***
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ <p align="end"> <i> Total de Visitas</i>
+   <p align="end">
+   <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />   
+     
+ 
+ <!--
+ 🖥️ <I>Passionate about Technology!!</I>
 
+◾ 📚 <I>Software Development Student at Editech StackX!!</I>
+
+◾ 💡 <I>I'm currently focused on learning languages in Front End, Java AND SQL(Database!!</I>
+
+◾ 🥰 <I>I present you here my portfolio in the Languages I'm delving into!</I>
+  </div>
 <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
 </a>
+
+https://www.fancytextconverter.com/
+
+- use SVGs in a next big update.
+
 -->
+
+
+ 
+
