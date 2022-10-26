@@ -372,7 +372,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.PNG" width="75px" alt=" Twitch icon"/></a><br><br>
+      <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.png" width="75px" alt=" Twitch icon"/></a><br><br>
       <sub>
         <b>
           <pre>Twitch.tv</pre>
