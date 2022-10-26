@@ -369,10 +369,18 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
+      <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.PNG" width="75px" alt=" Twitch icon"/></a><br><br>
       <sub>
         <b>
           <pre>Twitch.tv</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://is.gd/maiaracelular"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/cel.PNG" width="75px" alt=" Celular icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>Celular.tv</pre>
         </b>
       </sub>
     </td>
