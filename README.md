@@ -388,7 +388,7 @@
       </sub>
     </td>
      <td align="center">
-      <a href="https://is.gd/maiarasms"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/sms.PNG" width="75px" alt=" SMS icon"/></a><br><br>
+      <a href="https://is.gd/maiarasms"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/sms.png" width="75px" alt=" SMS icon"/></a><br><br>
       <sub>
         <b>
           <pre>&ensp;SMS&ensp;</pre>
