@@ -34,7 +34,7 @@
 
 ***
 
-<h2 align="left">
+<h1 align="left">
 🔮&ensp; <i>STATUS</i> 
 
 <br>
@@ -50,7 +50,7 @@
 
 ***
 
-<h2 align="left">
+<h1 align="left">
   🛠️&ensp;<i>LINGUAGENS</i>
   
   <br>
@@ -225,8 +225,8 @@
 ***
  
  <h1 align="left">
- 🗃️ &ensp; <i>PROJETOS</i> 
-                                                    
+  🗃️&ensp;<i>PROJETOS</i>
+  
   <br>
   <br>
                        
@@ -307,8 +307,8 @@
  
  ***
  
- <h2 align="left">
-  &ensp; 📩 <i>CONTATOS</i> 
+ <h1 align="left">
+ 📩&ensp;<i>CONTATOS</i> 
   
 <br>
 <br>
