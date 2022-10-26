@@ -407,5 +407,12 @@
   </tr>
 </table>
 
+***
+
+ <p align="end"> <i> Total de Visitas</i>
+   <p align="end">
+   <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />                        
+
+
  
 
