@@ -33,8 +33,8 @@
 <br>
 
 ***
-<h2 align="left">
-  🔮<i>STATUS</i> 
+<h1 align="left">
+  🔮&ensp;<i>STATUS</i> 
   
   <br>
   <br>
@@ -49,8 +49,8 @@
 
 ***
 
-<h2 align="left">
-  🛠️<i>LANGUAGES</i>
+<h1 align="left">
+  🛠️&ensp;<i>LANGUAGES</i>
   
   <br>
   <br>
@@ -223,8 +223,8 @@
                                                                                                                                                  
 ***
  
-  <h2 align="left">
-  🗃️<i>PROJECTS</i>
+  <h1 align="left">
+  🗃️&ensp;<i>PROJECTS</i>
   
   <br>
   <br>
@@ -305,8 +305,8 @@
  
  ***
  
- <h2 align="left">
-  📩<i>CONTACTS</i>
+ <h1 align="left">
+  📩&ensp;<i>CONTACTS</i>
   
  <br>
    <br>
