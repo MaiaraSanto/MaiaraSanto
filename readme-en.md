@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
-  <I>Olá! Sou Maiara Santos!!</I>  
-  <h2> 💻 <I>Futura Developer</I> </h2>
+  <I>Hi! I'm Maiara Santos!!</I>  
+  <h2> 💻 <I>Future Developer</I> </h2>
   
   <table align="center">
   <tr>
@@ -15,15 +15,14 @@
   </tr>
 </table>
 
+ ◾🖥️ <I>Passionate about Technology!!</I>
 
-◾ 🖥️ <I>Apaixonada por Tecnologia!!</I>
+◾ 📚 <I>Software Development Student at Editech StackX!!</I>
 
-◾ 📚 <I>Estudante de Desenvolvimento de Software na Editech StackX!!</I>
+◾ 💡 <I>I'm currently focused on learning languages in Front End, Java AND SQL(Database)!!</I>
 
-◾ 💡 <I>Atualmente estou focada em aprender Linguagens em Front End, Java E SQL(Banco de Dados!!</I>
-
-◾ 🥰 <I>Apresento-lhes aqui meu portfólio nas Linguagens ao qual estou me aprofundando!</I>
- </div> 
+◾ 🥰 <I>I present you here my portfolio in the Languages I'm delving into!</I>
+  </div>
  
  ***
  
@@ -53,7 +52,7 @@
 
 <h2 align="left">
 <details open>
-  <summary>🛠️<i>LINGUAGENS</i></summary> 
+  <summary>🛠️<i>LANGUAGES</i></summary> 
   
   #
   
@@ -224,9 +223,10 @@
 </table>
                                                                                                                                                  
 ***
+ 
   <h2 align="left">
 <details open>
-  <summary>🗃️<i>PROJETOS</i></summary>
+  <summary>🗃️<i>PROJECTS</i></summary>
   
   #
                        
@@ -309,7 +309,7 @@
  
  <h2 align="left">
 <details open>
-  <summary>📩<i>CONTATOS</i></summary> 
+  <summary>📩<i>CONTACTS</i></summary> 
   
 #
  
@@ -383,7 +383,7 @@
       <a href="https://is.gd/maiaracelular"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/cell.PNG" width="75px" alt=" Celular icon"/></a><br><br>
       <sub>
         <b>
-          <pre>Celular</pre>
+          <pre>Cell</pre>
         </b>
       </sub>
     </td>
@@ -409,7 +409,7 @@
 
 ***
 
- <p align="end"> <i> Total de Visitas</i>
+ <p align="end"> <i> total visits</i>
    <p align="end">
    <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />   
      
