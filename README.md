@@ -353,7 +353,7 @@
       </sub>
     </td>   
     <td align="center">
-      <a href="https://is.gd/F6WJro"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
+      <a href="https://is.gd/maiarayahoo"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
       <sub>
         <b>
           <pre>Yahoo</pre>
@@ -369,7 +369,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://is.gd/kcAikp"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
+      <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
       <sub>
         <b>
           <pre>Twitch.tv</pre>
@@ -377,7 +377,7 @@
       </sub>
     </td>
     <td align="center">
-     <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/g.PNG" width="75px" alt=" gmail icon"/></a><br><br>
+     <a href="https://is.gd/maiaragmail"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/g.PNG" width="75px" alt=" gmail icon"/></a><br><br>
       <sub>
         <b>
           <pre>Gmail</pre>
