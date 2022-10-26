@@ -33,12 +33,13 @@
 <br>
 
 ***
+
 <h2 align="left">
-<details open>
-  <summary>🔮<i>STATUS</i></summary> 
-  
-  #
-  
+🔮&ensp; <i>STATUS</i> 
+
+<br>
+<br>
+
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
@@ -46,17 +47,16 @@
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hidedark_border=true">
 </div>
-</details>
 
 ***
 
 <h2 align="left">
-<details open>
-  <summary>🛠️<i>LINGUAGENS</i></summary> 
+  🛠️&ensp;<i>LINGUAGENS</i>
   
-  #
+  <br>
+  <br>
   
-<table align="center" align="right" height="279px" border: "border-width">
+<table align="center" align="right" height="279px&theme=tokyonight&hidedark_border=true">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br><br>
@@ -223,11 +223,12 @@
 </table>
                                                                                                                                                  
 ***
-  <h2 align="left">
-<details open>
-  <summary>🗃️<i>PROJETOS</i></summary>
-  
-  #
+ 
+ <h1 align="left">
+ 🗃️ &ensp; <i>PROJETOS</i> 
+                                                    
+  <br>
+  <br>
                        
 <img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
 <table height="495px">
@@ -307,10 +308,10 @@
  ***
  
  <h2 align="left">
-<details open>
-  <summary>📩<i>CONTATOS</i></summary> 
+  &ensp; 📩 <i>CONTATOS</i> 
   
-#
+<br>
+<br>
  
  <table align="center" align="right" height="279px" border: "border-width">
   <tr>
