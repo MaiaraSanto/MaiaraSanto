@@ -229,7 +229,7 @@
   
   #
                        
-<img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
+<img align="right" src="./stackx.gif" height="496px" alt="projects image">
 <table height="495px">
     <tr>
     <td>
