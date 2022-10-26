@@ -36,7 +36,7 @@
 ***
 <h2 align="left">
 <details open>
-  <summary>🔮<i>STATUS</i></summary> </h2>
+  <summary>🔮<i>STATUS</i></summary> 
   
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
@@ -214,12 +214,13 @@
       <sub>
        <b> 
       <pre>Windows</pre>
-      </b> 
-    <sub>
+     </b>
+      </sub>
+    </td>
     </td>
   </tr>
 </table>
-                                                                                                                                                      
+                                                                                                                                                 
 ***
   <h2 align="left">
 <details open>
