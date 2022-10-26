@@ -6,15 +6,14 @@
   <tr>
     <td>
       <b>
-        <a href="README.md">🇧🇷 Português</a>
+        <a href="README.md">BR Português</a>
       </b>
     </td>
     <td>
-      <a href="readme-en.md">🇺🇸 English</a>
+      <a href="readme-en.md">US English</a>
     </td>
   </tr>
 </table>
-
 
 ◾ 🖥️ <I>Apaixonada por Tecnologia!!</I>
 
@@ -29,7 +28,7 @@
  
  <div align="center"> 
    
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400em" width="100%" >
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400em" width="150%" >
 </div>
 <br>
 
