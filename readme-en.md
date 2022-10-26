@@ -34,10 +34,10 @@
 
 ***
 <h2 align="left">
-<details open>
-  <summary>🔮<i>STATUS</i></summary> 
+  🔮<i>STATUS</i> 
   
-  #
+  <br>
+  <br>
   
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
@@ -46,15 +46,14 @@
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hidedark_border=true">
 </div>
-</details>
 
 ***
 
 <h2 align="left">
-<details open>
-  <summary>🛠️<i>LANGUAGES</i></summary> 
+  🛠️<i>LANGUAGES</i>
   
-  #
+  <br>
+  <br>
   
 <table align="center" align="right" height="279px" border: "border-width">
   <tr>
@@ -225,10 +224,10 @@
 ***
  
   <h2 align="left">
-<details open>
-  <summary>🗃️<i>PROJECTS</i></summary>
+  🗃️<i>PROJECTS</i>
   
-  #
+  <br>
+  <br>
                        
 <img align="right" src="./projects-wallpaper.gif" height="496px" alt="projects image">
 <table height="495px">
@@ -303,16 +302,15 @@
     </td>
   </tr>
 </table>   
- </details open>  
  
  ***
  
  <h2 align="left">
-<details open>
-  <summary>📩<i>CONTACTS</i></summary> 
+  📩<i>CONTACTS</i>
   
-#
- 
+ <br>
+   <br>
+   
  <table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
