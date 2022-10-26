@@ -380,7 +380,15 @@
       <a href="https://is.gd/maiaracelular"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/cel.PNG" width="75px" alt=" Celular icon"/></a><br><br>
       <sub>
         <b>
-          <pre>Celular.tv</pre>
+          <pre>Celular</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <a href="https://is.gd/maiarasms"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/sms.PNG" width="75px" alt=" SMS icon"/></a><br><br>
+      <sub>
+        <b>
+          <pre>&ensp;SMS&ensp;</pre>
         </b>
       </sub>
     </td>
