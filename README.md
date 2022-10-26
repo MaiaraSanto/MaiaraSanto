@@ -364,7 +364,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://is.gd/maiarasantostelegram"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.PNG" width="75px" alt=" Telegram icon"/></a><br><br>
+      <a href="https://is.gd/maiarasantostelegram"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.png" width="75px" alt=" Telegram icon"/></a><br><br>
       <sub>
         <b>
           <pre>Telegram</pre>
