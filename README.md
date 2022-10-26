@@ -411,7 +411,27 @@
 
  <p align="end"> <i> Total de Visitas</i>
    <p align="end">
-   <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />                        
+   <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />   
+     
+ 
+ <!--
+ 🖥️ <I>Passionate about Technology!!</I>
+
+◾ 📚 <I>Software Development Student at Editech StackX!!</I>
+
+◾ 💡 <I>I'm currently focused on learning languages in Front End, Java AND SQL(Database!!</I>
+
+◾ 🥰 <I>I present you here my portfolio in the Languages I'm delving into!</I>
+  </div>
+<a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
+</a>
+
+https://www.fancytextconverter.com/
+
+- use SVGs in a next big update.
+
+-->
 
 
  
