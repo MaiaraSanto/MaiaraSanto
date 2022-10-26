@@ -340,7 +340,7 @@
       </sub>
     </td>
         <td align="center">
-        <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Ol%C3%A1!%20Gostaria%20de%20conversar%20contigo."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.PNG" width="75px" alt=" whatsapp icon"/></a><br><br>
+        <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Ol%C3%A1!%20Gostaria%20de%20conversar%20contigo."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.png" width="75px" alt=" whatsapp icon"/></a><br><br>
       <sub>
         <b>
           <pre>WhatsApp</pre>
