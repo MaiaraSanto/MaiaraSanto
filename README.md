@@ -3,11 +3,11 @@
   <tr>
     <td>
       <b>
-        <a href="README.md">BR Português</a>
+         <a href="README.md"><i>BR PORTUGUÊS</i></a>
       </b>
     </td>
     <td>
-      <a href="readme-en.md">US English</a>
+       <a href="readme-en.md"><i><b>US ENGLISH</i></a>
     </td>
   </tr>
 </table>
@@ -15,8 +15,9 @@
   <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
   <I>Olá! Sou Maiara Santos!!</I>  
 
-  
-   <h2> 💻 <I>Futura Developer!!</I> </h2>
+   #
+   
+   <img align="right" src="./stackx.gif" height="150px" alt="projects image">
 
 ◾ 🖥️ <I>Apaixonada por Tecnologia!!</I>
 
