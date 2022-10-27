@@ -1,4 +1,5 @@
- <table align="center">
+   
+  <table align="center">
   <tr>
     <td>
       <b>
@@ -17,31 +18,31 @@
 <img src="./stackx.gif" align="center" width="70">
 </h1>
 
+
  ◾🖥️ <I>Passionate about Technology!!</I>
 
 ◾ 📚 <I>Software Development Student at Editech StackX!!</I>
 
 ◾ 💡 <I>I'm currently focused on learning languages in Front End, Java AND SQL(Database)!!</I>
 
-◾ 🥰 <I>I present you here my portfolio in the Languages I'm delving into!</I>
-  </div>
+◾ 🥰 <I>I present you here my portfolio in the Languages I'm delving into!</I> </div> 
  
  ***
  
  <div align="center"> 
    
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400em" width="100%" >
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400em" width="150%" >
 </div>
 <br>
 
 ***
-  
+
 <h1 align="left">
 <details open>
 <summary>🔮&ensp; <i>STATUS</i></summary>    
-
-  <br>
-  
+   
+   <br>
+   
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
@@ -49,6 +50,7 @@
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hidedark_border=true">
 </div>
+</details open>
 
 ***
 
@@ -58,7 +60,7 @@
   <br>
   <br>
   
-<table align="center" align="right" height="279px" border: "border-width">
+<table align="center" align="right" height="279px&theme=tokyonight&hidedark_border=true">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br><br>
@@ -226,7 +228,7 @@
                                                                                                                                                  
 ***
  
-  <h1 align="left">
+ <h1 align="left">
   🗃️&ensp;<i>PROJECTS</i>
   
   <br>
@@ -305,15 +307,16 @@
     </td>
   </tr>
 </table>   
+ </details open>  
  
  ***
  
  <h1 align="left">
-  📩&ensp;<i>CONTACTS</i>
+ 📩&ensp;<i>CONTACTS</i> 
   
- <br>
-   <br>
-   
+<br>
+<br>
+ 
  <table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
@@ -384,7 +387,7 @@
       <a href="https://is.gd/maiaracelular"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/cell.PNG" width="75px" alt=" Celular icon"/></a><br><br>
       <sub>
         <b>
-          <pre>Cell</pre>
+          <pre>Celular</pre>
         </b>
       </sub>
     </td>
@@ -410,7 +413,7 @@
 
 ***
 
- <p align="end"> <i> total visits</i>
+ <p align="end"> <i>Total visits</i>
    <p align="end">
    <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />   
      
