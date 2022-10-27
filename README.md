@@ -16,7 +16,7 @@
   <I>Olá! Sou Maiara Santos!!</I>  
 
   
-   <h2> 💻 <I>Futura Developer</I> </h2>
+   <h2> 💻 <I>Futura Developer!!</I> </h2>
 
 ◾ 🖥️ <I>Apaixonada por Tecnologia!!</I>
 
