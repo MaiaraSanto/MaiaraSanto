@@ -1,7 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
-  <I>Olá! Sou Maiara Santos!!</I>  
-  <h2> 💻 <I>Futura Developer</I> </h2>
-  
+   
   <table align="center">
   <tr>
     <td>
@@ -14,6 +11,12 @@
     </td>
   </tr>
 </table>
+  
+  <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
+  <I>Olá! Sou Maiara Santos!!</I>  
+
+  
+   <h2> 💻 <I>Futura Developer</I> </h2>
 
 ◾ 🖥️ <I>Apaixonada por Tecnologia!!</I>
 
