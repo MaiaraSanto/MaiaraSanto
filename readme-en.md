@@ -1,19 +1,21 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
-  <I>Hi! I'm Maiara Santos!!</I>  
-  <h2> 💻 <I>Future Developer</I> </h2>
-  
-  <table align="center">
+ <table align="center">
   <tr>
     <td>
       <b>
-        <a href="README.md">🇧🇷 Português</a>
+         <a href="README.md"><i>BR PORTUGUÊS</i></a>
       </b>
     </td>
     <td>
-      <a href="readme-en.md">🇺🇸 English</a>
+       <a href="readme-en.md"><i><b>US ENGLISH</i></a>
     </td>
   </tr>
 </table>
+  
+  <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
+  <I>Hi! I'm Maiara Santos!!</I>  
+   <h2> Software Developer at&ensp;
+<img src="./stackx.gif" align="center" width="70">
+</h1>
 
  ◾🖥️ <I>Passionate about Technology!!</I>
 
