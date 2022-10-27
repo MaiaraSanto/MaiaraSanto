@@ -35,10 +35,11 @@
 <br>
 
 ***
-<h1 align="left">
-  🔮&ensp;<i>STATUS</i> 
   
-  <br>
+<h1 align="left">
+<details open>
+<summary>🔮&ensp; <i>STATUS</i></summary>    
+
   <br>
   
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
