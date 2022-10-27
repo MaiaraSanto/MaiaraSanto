@@ -7,7 +7,9 @@
       </b>
     </td>
     <td>
+    <b>
        <a href="readme-en.md"><i><b>US ENGLISH</i></a>
+       </b>
     </td>
   </tr>
 </table>
@@ -184,9 +186,9 @@
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
+ <sub>
+ <b>
+     <pre>Insomnia</pre>
         </b>
       </sub>
     </td>
@@ -213,10 +215,10 @@
           <pre>SCSS</pre>
         </b>
       </sub>
-    </td>                                                                           
+    </td>                                                                         
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br><br>
-      <sub>
+    <sub>
        <b> 
       <pre>Windows</pre>
      </b>
@@ -430,11 +432,6 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
 </a>
-
-https://www.fancytextconverter.com/
-
-- use SVGs in a next big update.
-
 -->
 
 
