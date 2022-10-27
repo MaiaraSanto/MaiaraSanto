@@ -14,10 +14,10 @@
   
   <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
   <I>Olá! Sou Maiara Santos!!</I>  
+   <h2> Desenvolvedora de Software pela&ensp;
+<img src="./stackx.gif" align="center" width="70">
+</h1>
 
-   #
-   
-   <img align="right" src="./stackx.gif" height="150px" alt="projects image">
 
 ◾ 🖥️ <I>Apaixonada por Tecnologia!!</I>
 
