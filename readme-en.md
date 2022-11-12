@@ -47,10 +47,10 @@
    
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
 <br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
+<img align="left" height="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hidedark_border=true">
+<img height="240px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
+<img height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hidedark_border=true">
 </div>
 </details open>
 
@@ -237,7 +237,7 @@
   <br>
                        
 <img align="right" src="./projects-wallpaper.gif" height="651px" alt="projects image">
-<table height="650px">
+<table height="651px" height="400em" width="150%">
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
@@ -320,41 +320,41 @@
 <br>
  
  <table align="center" align="right" height="279px" border: "border-width">
-  <tr>
-    <td align="center">
+  <tr width="100px">
+    <td align="center" width="100px">
        <a  href=https://www.linkedin.com/in/maiarasantos25/><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br><br>
       <sub>
         <b>
-          <pre>Linkedin</pre>
+          <pre width="10px">Linkedin</pre>
         </b>
       </sub>
-    </td>
-    <td align="center">
+    </td width="100px">
+    <td align="center" width="100px">
       <a  href="https://www.instagram.com/mayarahsant/"><img src="https://skillicons.dev/icons?i=instagram"  width="65px" alt=" Instagram icon"/></a><br><br>
       <sub>
         <b>
           <pre>Instagram</pre>
         </b>
       </sub>
-    </td>
-    <td align="center">
+    </td width="100px">
+    <td align="center" width="100px">
      <a  href="https://discord.com/channels/@me"><img src="https://skillicons.dev/icons?i=discord"  width="65px" alt=" Discord icon"/></a><br><br>
       <sub>
         <b>
-          <pre>Discord</pre>
+          <pre >Discord</pre>
         </b>
       </sub>
-    </td>
-        <td align="center">
-        <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Ol%C3%A1!%20Gostaria%20de%20conversar%20contigo."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.png" width="75px" alt=" whatsapp icon"/></a><br><br>
+    </td width="100px">
+        <td align="center" width="100px">
+        <a href="https://api.whatsapp.com/send?phone=5575991050049&text=Ol%C3%A1!%20Gostaria%20de%20conversar%20contigo."><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/wat.png" width="65px" alt=" whatsapp icon"/></a><br><br>
       <sub>
         <b>
           <pre>WhatsApp</pre>
         </b>
       </sub>
-    </td>
+    </td width="100px">
     <td align="center" width="100px;">
-       <a href="https://www.facebook.com/profile.php?id=100069142017196"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/facebook.png" width="75px" alt=" Facebook icon"/></a><br><br>
+       <a href="https://www.facebook.com/profile.php?id=100069142017196"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/facebook.png" width="65px" alt=" Facebook icon"/></a><br><br>
       <sub>
         <b>
           <pre>Facebook</pre>
@@ -362,7 +362,7 @@
       </sub>
     </td>   
     <td align="center">
-      <a href="https://is.gd/maiarayahoo"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
+      <a href="https://is.gd/maiarayahoo"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="65px" alt=" Yahoo icon"/></a><br><br>
       <sub>
         <b>
           <pre>Yahoo</pre>
@@ -370,7 +370,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://is.gd/maiarasantostelegram"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.png" width="75px" alt=" Telegram icon"/></a><br><br>
+      <a href="https://is.gd/maiarasantostelegram"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.png" width="65px" alt=" Telegram icon"/></a><br><br>
       <sub>
         <b>
           <pre>Telegram</pre>
@@ -378,7 +378,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.png" width="75px" alt=" Twitch icon"/></a><br><br>
+      <a href="https://www.twitch.tv/maysantos20"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/t.png" width="65px" alt=" Twitch icon"/></a><br><br>
       <sub>
         <b>
           <pre>Twitch.tv</pre>
@@ -386,7 +386,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://is.gd/maiaracelular"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/cell.PNG" width="75px" alt=" Celular icon"/></a><br><br>
+      <a href="https://is.gd/maiaracelular"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/cell.PNG" width="65px" alt=" Celular icon"/></a><br><br>
       <sub>
         <b>
           <pre>Celular</pre>
@@ -394,7 +394,7 @@
       </sub>
     </td>
      <td align="center">
-      <a href="https://is.gd/maiarasms"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/sms.png" width="75px" alt=" SMS icon"/></a><br><br>
+      <a href="https://is.gd/maiarasms"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/sms.png" width="65px" alt=" SMS icon"/></a><br><br>
       <sub>
         <b>
           <pre>&ensp;SMS&ensp;</pre>
@@ -402,7 +402,7 @@
       </sub>
     </td>
     <td align="center">
-     <a href="https://is.gd/maiaragmail"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/gmail.png" width="75px" alt=" gmail icon"/></a><br><br>
+     <a href="https://is.gd/maiaragmail"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/gmail.png" width="65px" alt=" gmail icon"/></a><br><br>
       <sub>
         <b>
           <pre>Gmail</pre>
