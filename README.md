@@ -235,8 +235,8 @@
   <br>
   <br>
                        
-<img align="right" src="./projects-wallpaper.gif" height= "651px" alt="projects image">
-<table height="651pxpx">
+<img align="right" src="./projects-wallpaper.gif" height= "496px" alt="projects image">
+<table height="496px">
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
