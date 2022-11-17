@@ -13,10 +13,13 @@
     </td>
   </tr>
 </table>
-  
-  <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="38"> 
-  <I>Hi! I'm Maiara Santos!!</I>  
-   <h2> Software Developer at&ensp;
+
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white&size=35&center=true&vCenter=true&width=1000&lines=HI!+I'M+MAIARA+SANTOS!!+:%29)](https://git.io/typing-svg)
+
+ <h2> Software Developer at&ensp;
 <img src="./stackx.gif" align="center" width="70">
 </h1>
 
