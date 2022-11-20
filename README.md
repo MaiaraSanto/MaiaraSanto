@@ -17,16 +17,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dark&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!+SOU+MAIARA+SANTOS!+:%29)](https://git.io/typing-svg)
   
-   <h2> Desenvolvedora de Software na&ensp;
+   <h2> Estudante de Desenvolvedor de Software na&ensp;
 <img src="./stackx.gif" align="center" width="70">
 </h1>
 
 
-◾ 🖥️ <I>Apaixonada por Tecnologia!!</I>
+◾ 🖥️ <I>Sou Pós-Graduada em História, com experiência em atuar como Professora e Coordenadora Pedagógica, do Ensino Público da Educação Básica, durante 7 anos.!!</I>
 
-◾ 📚 <I>Estudante de Desenvolvimento de Software na Editech StackX!!</I>
+◾ 📚 <I>Atualmente estou em transição de carreira, onde tive o primeiro contato com a Programação em 2021, através de um curso para Desenvolvedor Full Stack,iniciando assim os estudos em JAVA, React, TypeScript, Node e JavaScript .Com isto o interesse em aprender Linguagem de Programação tornou-se cada vez maior e mais apaixonante, decidindo então investir nesta área que tanto me desafia e alavanca minha cognição. !!</I>
 
-◾ 💡 <I>Atualmente estou focada em aprender Linguagens em Front End, Java E SQL(Banco de Dados!!</I>
+◾ 💡 <I>Atualmente estou focada em aprender Type Script, React, Angular e Java!!</I>
+
+◾ 💡 <I>Estou disposta em me tornar uma Desenvolvedora, pretendendo adquirir competências, experiências, habilidades, conhecimentos , novas oportunidades e desafios, para viabilizar, expandir e concretizar minha carreira profissional,!!</I>
 
 ◾ 🥰 <I>Apresento-lhes aqui meu portfólio nas Linguagens ao qual estou me aprofundando!</I>
  </div> 
@@ -218,14 +220,6 @@
         </b>
       </sub>
     </td>                                                                           
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br><br>
-      <sub>
-       <b> 
-      <pre>Windows</pre>
-     </b>
-      </sub>
-    </td>
     </td>
   </tr>
 </table>
