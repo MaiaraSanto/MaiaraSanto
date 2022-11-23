@@ -19,19 +19,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white&size=35&center=true&vCenter=true&width=1000&lines=HI!+I'M+MAIARA+SANTOS!!+:%29)](https://git.io/typing-svg)
 
- <h2> Software Developer at&ensp;
+ <h2> Software Developer Student at &ensp;
 <img src="./stackx.gif" align="center" width="70">
 </h1>
 
 
- ◾🖥️ <I>Passionate about Technology!!</I>
+◾ 🖥️ <i>I am a post-graduate in History, with experience in acting as a Teacher and Pedagogical Coordinator, of Public Education of Basic Education, for 7 years.!!</i>
 
-◾ 📚 <I>Software Development Student at Editech StackX!!</I>
+◾ 📚 <i>I am currently in a career transition, where I had my first contact with Programming in 2021, through a Full Stack Developer course, thus starting studies in JAVA, React, TypeScript, Node and JavaScript. Programming Language has become bigger and more passionate, so I decided to invest in this area that challenges me so much and leverages my cognition. </i>
 
-◾ 💡 <I>I'm currently focused on learning languages in Front End, Java AND SQL(Database)!!</I>
+◾ 💡 <i>I'm currently focused on learning Type Script, React, Angular and Java!!</i>
 
-◾ 🥰 <I>I present you here my portfolio in the Languages I'm delving into!</I> </div> 
- 
+◾ 💡 <i>I am willing to become a Developer, intending to acquire skills, experiences, skills, knowledge, new opportunities and challenges, to enable, expand and fulfill my professional career,!!</i>
+
+◾ 🥰<i> I present here my portfolio in Languages ​​that I'm deepening!</i>
+
  ***
  
  <div align="center"> 
@@ -219,14 +221,6 @@
         </b>
       </sub>
     </td>                                                                         
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br><br>
-    <sub>
-       <b> 
-      <pre>Windows</pre>
-     </b>
-      </sub>
-    </td>
     </td>
   </tr>
 </table>
