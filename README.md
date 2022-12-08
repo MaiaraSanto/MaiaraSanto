@@ -45,12 +45,9 @@
 
 <h1 align="left">
 <details open>
-<summary>🔮&ensp; <i>STATUS</i></summary>    
-   
+<summary>🔮&ensp;<i>STATUS</i></summary>  
    <br>
-   
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true">
-<br><br>
+      
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
 <div align="right">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
