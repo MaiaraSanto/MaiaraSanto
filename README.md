@@ -44,11 +44,7 @@
 
 ***
 
-<h1 align="left">
-  🛠️&ensp;<i>LINGUAGENS</i>
-  
-  <br>
-  <br>
+<img align="center" src="./stack.png" width="100%" alt="Título da seção Minha Stack" />  
   
 <table align="center" align="right" height="279px&theme=tokyonight&hidedark_border=true">
   <tr>
