@@ -383,7 +383,7 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
-<img align="left" height="415px"  src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Top%20Linguagens&cache_seconds=14400=tokyonight&hidedark_border=true" />
+<img align="left" height="415px" width="50%" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Top%20Linguagens&cache_seconds=14400=tokyonight&hidedark_border=true" />
 <div align="right">
   <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true" />
   <img height="203px" src="https://streak-stats.demolab.com?user=MaiaraSanto&theme=tokyonight&hidedark_border=true" />
@@ -395,7 +395,7 @@
 
 
  <div align="right">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=MaiaraSanto&repo=MaiaraSanto&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="60px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=MaiaraSanto&repo=MaiaraSanto&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da Maiara santos" height="60px" />
 </div>
       
      
