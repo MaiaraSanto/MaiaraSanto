@@ -212,8 +212,8 @@
   <br>
   <br>
                        
-<img align="left" src="./images/projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
-<table height="495px">
+<img align="left" src="./projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<table height="496px">
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
