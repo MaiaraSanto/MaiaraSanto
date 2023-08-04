@@ -392,13 +392,11 @@
   </tr>
 </table>
 
-<hr/>
-
-<img align="center" src=".activity(1).png" width="100%" alt="Título da seção Atividade" />
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-<img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+ <img align="center" src="./activity.png" width="100%" alt="Título da seção Atividade" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaiaraSanto&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
 <div align="right">
-  <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=Luk4x&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=tru" />
   <img height="203px" src="https://streak-stats.demolab.com?user=Luk4x&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
@@ -407,11 +405,11 @@
 </div>
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
-
-
+ 
  <p align="end"> <i> Total de Visitas</i>
    <p align="end">
-   <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />   
+   <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" /> 
+      
      
  
  <!--
