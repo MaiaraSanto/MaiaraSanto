@@ -281,12 +281,8 @@
  </details open>  
  
  ***
- 
- <h1 align="left">
- 📩&ensp;<i>CONTATOS</i> 
-  
-<br>
-<br>
+
+ <img align="center" src="./contact.png" width="100%" alt="Título da seção Contato" />
  
  <table align="center" align="right" height="279px" border: "border-width">
   <tr>
@@ -385,7 +381,7 @@
 <hr/>
 
 <img align="center" src="./activity.png" width="100%" alt="Título da seção Atividade" />
-<br/><br/>
+
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 <img align="left" height="415px"  src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Top%20Linguagens&cache_seconds=14400=tokyonight&hidedark_border=true" />
