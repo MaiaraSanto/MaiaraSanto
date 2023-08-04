@@ -393,7 +393,6 @@
 </div>
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
-
  <div align="right">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=MaiaraSanto&repo=MaiaraSanto&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da Maiara santos" height="60px" />
 </div>
