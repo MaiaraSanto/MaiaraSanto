@@ -391,8 +391,7 @@
 <div align="center">
   <img align="center"  src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
 </div>
-<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
-
+<img align="center" src="./animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
  <div align="right">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=MaiaraSanto&repo=MaiaraSanto&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da Maiara santos" height="60px" />
 </div>
