@@ -17,7 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dark&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!+SOU+MAIARA+SANTOS!+:%29)](https://git.io/typing-svg)
   
-   <h2> Estudante de Desenvolvedor de Software na&ensp;
+   <h2> Estudante de Desenvolvimento  de Software na&ensp;
 <img src="./stackx.gif" align="center" width="70">
 </h1>
 
@@ -409,10 +409,9 @@
 <img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
 
 
- 
- <p align="end"> <i> Total de Visitas</i>
-   <p align="end">
-   <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" /> 
+ <div align="right">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=MaiaraSanto&repo=MaiaraSanto&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="60px" />
+</div>
       
      
  
