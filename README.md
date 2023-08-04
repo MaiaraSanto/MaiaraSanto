@@ -21,6 +21,7 @@
 <img src="./stackx.gif" align="center" width="70">
 </h1>
 
+<img align="center" src="./about.png" width="100%" alt="Título da seção Sobre Mim" />
 
 ◾ 🖥️ <I>Sou Pós-Graduada em História, com experiência em atuar como Professora e Coordenadora Pedagógica, do Ensino Público da Educação Básica, durante 7 anos.!!</I>
 
