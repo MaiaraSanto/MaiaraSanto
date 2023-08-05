@@ -205,8 +205,8 @@
 </table>                                                                                
 
 <img align="center" src="./projects.png" width="100%" alt="Projects Section Title" />
-<img align="left" src="./projects-wallpaper.gif" height="650px" alt="Boy programming, working in personal projects" />
-<table height="650px" height="400em" width="150%">
+<img align="left" src="./projects-wallpaper.gif" height="495px" alt="Boy programming, working in personal projects" />
+<table height="496px" height="400em" width="150%">
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
