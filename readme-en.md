@@ -384,7 +384,7 @@
   <img height="203px" src="https://streak-stats.demolab.com?user=MaiaraSanto&theme=tokyonight&hidedark_border=true" />
 </div>
 <div align="center">
-  <img align="center"  src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+   <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/wakatime?username=Luk4x&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Coding%20Time&range=all_time&cache_seconds=14400" />
 </div>
 <img align="center" src="./animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
  <div align="right">
