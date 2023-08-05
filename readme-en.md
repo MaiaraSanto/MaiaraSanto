@@ -24,6 +24,7 @@
 </h1>
 
 
+<img align="center" src="./about (1).png" width="100%" alt="About Me Section Title" />
 ◾ 🖥️ <i>I am a post-graduate in History, with experience in acting as a Teacher and Pedagogical Coordinator, of Public Education of Basic Education, for 7 years.!!</i>
 
 ◾ 📚 <i>I am currently in a career transition, where I had my first contact with Programming in 2021, through a Full Stack Developer course, thus starting studies in JAVA, React, TypeScript, Node and JavaScript. Programming Language has become bigger and more passionate, so I decided to invest in this area that challenges me so much and leverages my cognition. </i>
@@ -43,11 +44,7 @@
 
 ***
 
-<h1 align="left">
-  🛠️&ensp;<i>LANGUAGES</i>
-  
-  <br>
-  <br>
+<img align="center" src="./stack (1).png" width="100%" alt="My Stack Section Title" />
   
 <table align="center" align="right" height="279px&theme=tokyonight&hidedark_border=true">
   <tr>
@@ -205,18 +202,11 @@
     </td>                                                                         
     </td>
   </tr>
-</table>
-                                                                                                                                                 
-***
- 
- <h1 align="left">
-  🗃️&ensp;<i>PROJECTS</i>
-  
-  <br>
-  <br>
-                       
-<img align="right" src="./projects-wallpaper.gif" height="651px" alt="projects image">
-<table height="651px" height="400em" width="150%">
+</table>                                                                                
+
+<img align="center" src="./projects.png" width="100%" alt="Projects Section Title" />
+<img align="left" src="./projects-wallpaper.gif" height="650px" alt="Boy programming, working in personal projects" />
+<table height="650px" height="400em" width="150%">
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
@@ -288,16 +278,8 @@
     </td>
   </tr>
 </table>   
- </details open>  
  
- ***
- 
- <h1 align="left">
- 📩&ensp;<i>CONTACTS</i> 
-  
-<br>
-<br>
- 
+ <img align="center" src="./contact (1).png" width="100%" alt="Contact Section Title" />
  <table align="center" align="right" height="279px" border: "border-width">
   <tr width="100px">
     <td align="center" width="100px">
@@ -392,14 +374,7 @@
   </tr>
 </table>
 
-***
-
-<h1 align="left">
-<details open>
-<summary>🔮&ensp; <i>STATUS</i></summary>    
-   
-   <br>
-   
+<img align="center" src="./activity.png" width="100%" alt="Activity Section Title" />   
 <img align="left" height="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
 <div align="right">
 <img height="249px" min-width="1px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
