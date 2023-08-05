@@ -374,20 +374,18 @@
   </tr>
 </table>
 
-<img align="center" src="./activity.png" width="100%" alt="Activity Section Title" />   
+<img align="center" src="./activity (1).png" width="100%" alt="Activity Section Title" />   
 <img align="left" height="490px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true">
 <div align="right">
 <img height="249px" min-width="1px" src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true">
 <img height="249px" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hidedark_border=true">
 </div>
-</details open>
 
-***
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=MaiaraSanto&repo=MaiaraSanto&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="MaiaraSanto Github Profile Visitors Counter" height="40px" />
+</div>
+<hr/>
 
- <p align="end"> <i>Total visits</i>
-   <p align="end">
-   <img alingn="end"src="https://profile-counter.glitch.me/MaiaraSanto/count.svg" />   
-     
  
  <!--
  🖥️ <I>Passionate about Technology!!</I>
