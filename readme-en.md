@@ -48,9 +48,13 @@
 </div>
 
 ***
-
+<table>
+   <tr>
+      <td>
 <img align="center" src="./stack (1).png" width="100%" alt="My Stack Section Title" />
-  
+         </td>
+      </tr>
+  </table>
 <table align="center" align="right" height="279px&theme=tokyonight&hidedark_border=true">
   <tr>
     <td align="center">
@@ -209,9 +213,15 @@
   </tr>
 </table>                                                                                
 
-<img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" />                      
-<img align="left" src="./projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
-<table height="496px">
+<table>
+   <tr>
+      <td>
+<img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" /> 
+         </td>
+      </tr>
+   </table>
+<img align="left" width="50%" src="./img.gif" height="495px" alt="Garota programando, trabalhando em seus projetos pessoais" />
+<table height="495px" align="right" width="50%" >
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
@@ -444,8 +454,13 @@
   </tr>
 </table>
 
-<img align="center" src="./activity (1).png" width="100%" alt="Activity Section Title" />   
-
+<table>
+   <tr>
+      <td>
+<img align="center" src="./activity (1).png" width="100%" alt="Activity Section Title" /> 
+      </td>
+      </tr>
+</table>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Top%20Linguagens&cache_seconds=14400=tokyonight&hidedark_border=true" />
