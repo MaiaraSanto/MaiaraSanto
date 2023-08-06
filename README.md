@@ -357,7 +357,7 @@
  </a>
     </td>
   </tr>
-</table>   
+</table>  
  
 <table>
    <tr>
@@ -461,7 +461,6 @@
   </tr>
 </table>
 
-<hr/>
 <table>
    <tr>
       <td>
