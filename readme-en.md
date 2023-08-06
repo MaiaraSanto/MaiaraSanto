@@ -23,8 +23,13 @@
 <img src="./stackx.gif" align="center" width="70">
 </h1>
 
-
+<table>
+   <tr>
+      <td>
 <img align="center" src="./about (1).png" width="100%" alt="About Me Section Title" />
+         </td>
+      </tr>
+   </table>
 ◾ 🖥️ <i>I am a post-graduate in History, with experience in acting as a Teacher and Pedagogical Coordinator, of Public Education of Basic Education, for 7 years.!!</i>
 
 ◾ 📚 <i>I am currently in a career transition, where I had my first contact with Programming in 2021, through a Full Stack Developer course, thus starting studies in JAVA, React, TypeScript, Node and JavaScript. Programming Language has become bigger and more passionate, so I decided to invest in this area that challenges me so much and leverages my cognition. </i>
