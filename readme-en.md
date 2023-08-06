@@ -204,9 +204,9 @@
   </tr>
 </table>                                                                                
 
-<img align="center" src="./projects.png" width="100%" alt="Projects Section Title" />
-<img align="left" src="./projects-wallpaper.gif" height="495px" alt="Boy programming, working in personal projects" />
-<table height="496px" height="400em" width="150%">
+<img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" />                      
+<img align="left" src="./projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<table height="496px">
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
@@ -218,6 +218,20 @@
     <td>
     <a href="https://github.com/MaiaraSanto/Student-StackX-React" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Student-StackX-React&theme=tokyonight&hidedark_border=true">
+   </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/MaiaraSanto/DevStart---FloripamaisTec" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=DevStart---FloripamaisTec&theme=tokyonight&hidedark_border=true">
+   </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <a href="https://github.com/MaiaraSanto/PROJETO-02-WEB3.O-ANGULAR" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=PROJETO-02-WEB3.O-ANGULAR&theme=tokyonight&hidedark_border=true">
    </a>
     </td>
   </tr>
@@ -263,6 +277,58 @@
      </a>
     </td>
   </tr>
+   <tr>
+      <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/PROJETO-01-WEB-3.O-REACT" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=PROJETO-01-WEB-3.O-REACT&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Dsmeta1" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Dsmeta1&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/PROJETO-03-WEB3.0-VUE" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=PROJETO-03-WEB3.0-VUE&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+
+   <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/stackx-basico-entrypoint" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=stackx-basico-entrypoint&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Curriculo-StackX" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Curriculo-StackX&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Poo-Java" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=POO-Java&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/StackX-JavaScriptIII" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=StackX-JavaScriptIII&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+
   <tr>
     <td>
    <a href="https://github.com/MaiaraSanto/Java-Logica-de-Programacao" target="_blank">
@@ -277,8 +343,7 @@
  </a>
     </td>
   </tr>
-</table>   
- 
+</table> 
  <img align="center" src="./contact (1).png" width="100%" alt="Contact Section Title" />
  <table align="center" align="right" height="279px" border: "border-width">
   <tr width="100px">
