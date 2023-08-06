@@ -55,8 +55,8 @@
          </td>
       </tr>
   </table>
-<table align="center" align="right" height="279px&theme=tokyonight&hidedark_border=true">
-  <tr>
+<table align="center" align="right"  border= "1px , 1px, 1px, 1px, solid ">
+  <tr >
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br><br>
       <sub>
@@ -211,7 +211,8 @@
     </td>                                                                         
     </td>
   </tr>
-</table>                                                                                
+</table> 
+
 
 <table>
    <tr>
@@ -219,9 +220,9 @@
 <img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" /> 
          </td>
       </tr>
-   </table>
-<img align="left" width="50%" src="./img.gif" height="495px" alt="Garota programando, trabalhando em seus projetos pessoais" />
-<table height="495px" align="right" width="50%" >
+</table>
+<img align="left" width="50%" src="./img.gif" height="495px"  border= "1px  solid"  alt="Garota programando, trabalhando em seus projetos pessoais" />
+<table height="495px" align="right" width="50%"  border= "1px  solid" >
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
@@ -229,7 +230,7 @@
     </a>
     </td>
   </tr>
-  <tr>
+     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/Student-StackX-React" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Student-StackX-React&theme=tokyonight&hidedark_border=true">
@@ -292,7 +293,6 @@
      </a>
     </td>
   </tr>
-   <tr>
       <tr>
     <td>
    <a href="https://github.com/MaiaraSanto/PROJETO-01-WEB-3.O-REACT" target="_blank">
@@ -314,7 +314,6 @@
      </a>
     </td>
   </tr>
-
    <tr>
     <td>
    <a href="https://github.com/MaiaraSanto/stackx-basico-entrypoint" target="_blank">
@@ -360,7 +359,7 @@
   </tr>
 </table> 
  <img align="center" src="./contact (1).png" width="100%" alt="Contact Section Title" />
- <table align="center" align="right" height="279px" border: "border-width">
+ <table align="center" align="right"  border= "1px  solid">
   <tr width="100px">
     <td align="center" width="100px">
        <a  href=https://www.linkedin.com/in/maiarasantos25/><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br><br>
