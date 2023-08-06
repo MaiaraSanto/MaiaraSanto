@@ -204,8 +204,8 @@
   </tr>
 </table>                                                                                                                                                 
  <img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" />                      
-<img align="left" src="./img.gif" height="495px" width="45%" alt="Garoto programando, trabalhando em seus projetos pessoais" />
-<table height="496px">
+<img align="left" src="./img.gif" height="495px" width="50%" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<table height="495px" width="50%">
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
@@ -449,7 +449,7 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
-<img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Top%20Linguagens&cache_seconds=14400=tokyonight&hidedark_border=true" />
+<img align="left" height="415px" width="45%" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Top%20Linguagens&cache_seconds=14400=tokyonight&hidedark_border=true" />
 <div align="right">
   <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true" />
   <img height="203px" src="https://streak-stats.demolab.com?user=MaiaraSanto&theme=tokyonight&hidedark_border=true" />
