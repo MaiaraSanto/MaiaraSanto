@@ -204,8 +204,8 @@
   </tr>
 </table>                                                                                                                                                 
  <img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" />                      
-<img align="left" src="./img.gif" height="495px" width="50%" alt="Garoto programando, trabalhando em seus projetos pessoais" />
-<table height="495px" width="50%" align="right">
+<img align="left" src="./img.gif" height="495px" width="45%" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<table height="495px" width="45%" align="right">
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
