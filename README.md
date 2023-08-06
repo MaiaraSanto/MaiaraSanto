@@ -204,7 +204,7 @@
   </tr>
 </table>                                                                                                                                                 
  <img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" />                      
-<img align="left" src="./projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<img align="left" src="./img.gif" height="495px" width="45%" alt="Garoto programando, trabalhando em seus projetos pessoais" />
 <table height="496px">
     <tr>
     <td>
