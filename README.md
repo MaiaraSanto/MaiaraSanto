@@ -20,12 +20,16 @@
    <h2> Estudante de Desenvolvimento  de Software na&ensp;
 <img src="./stackx.gif" align="center" width="70">
 </h1>
-
-<img align="center" src="./about.png" width="100%"  border="10px solid black" alt="Título da seção Sobre Mim" />
-
+<table>
+   <tr>
+      <td border-width= "5px black">
+<img align="center" src="./about.png" width="100%" alt="Título da seção Sobre Mim" />
+         </td>
+      </tr>
+</table>
 ◾ 🖥️ <I>Sou Pós-Graduada em História, com experiência em atuar como Professora e Coordenadora Pedagógica, do Ensino Público da Educação Básica, durante 7 anos.!!</I>
 
-◾ 📚 <I>Atualmente estou em transição de carreira, onde tive o primeiro contato com a Programação em 2021, através de um curso para Desenvolvedor Full Stack,iniciando assim os estudos em JAVA, React, TypeScript, Node e JavaScript .Com isto o interesse em aprender Linguagem de Programação tornou-se cada vez maior e mais apaixonante, decidindo então investir nesta área que tanto me desafia e alavanca minha cognição. !!</I>
+◾ 📚 <I>Estou em transição de carreira, onde tive o primeiro contato com a Programação em 2021, através de um curso para Desenvolvedor Full Stack,iniciando assim os estudos em JAVA, React, TypeScript, Node e JavaScript .Com isto o interesse em aprender Linguagem de Programação tornou-se cada vez maior e mais apaixonante, decidindo então investir nesta área que tanto me desafia e alavanca minha cognição. !!</I>
 
 ◾ 💡 <I>Atualmente estou focada em aprender Type Script, React, Angular e Java!!</I>
 
@@ -36,16 +40,20 @@
  
  ***
  
- <div align="center"> 
+ <div align="center" border-width= "2px"> 
    
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400em" width="150%" >
+  <img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400em" width="150%" >
 </div>
-<br>
+
 
 ***
-
-<img align="center" src="./stack.png" width="100%" alt="Título da seção Minha Stack"  border="radius"/>  
-  
+<table>
+   <tr>
+      <td>
+<img align="center" src="./stack.png" width="100%" alt="Título da seção Minha Stack"  border="radius"/>
+         </td>
+      </tr>
+ </table> 
 <table align="center" align="right" height="279px&theme=tokyonight&hidedark_border=true">
   <tr>
     <td align="center">
@@ -202,9 +210,16 @@
     </td>                                                                           
     </td>
   </tr>
-</table>                                                                                                                                                 
- <img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" />                      
-<img align="left" src="./img.gif" height="495px" width="45%"  border="10px solid black" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+</table>                                                                                                                                   
+<table>
+   <tr>
+      <td>
+ <img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" /> 
+         </td>
+      </tr>
+   </table>
+<img align="left" src="./img.gif" height="495px" width="45%"  border="10px solid black" alt="Garta programando, trabalhando em seus projetos pessoais" />
+        
 <table height="495px" width="45%" align="right">
     <tr>
     <td>
@@ -344,11 +359,14 @@
   </tr>
 </table>   
  
- 
- ***
+<table>
+   <tr>
+      <td>
+      <img align="center" src="./contact.png" width="100%" alt="Título da seção Contato" />
+         </td>
+      </tr>
 
- <img align="center" src="./contact.png" width="100%" alt="Título da seção Contato" />
- 
+ </table>
  <table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
@@ -444,9 +462,13 @@
 </table>
 
 <hr/>
-
+<table>
+   <tr>
+      <td>
 <img align="center" src="./activity.png" width="100%" alt="Título da seção Atividade" />
-
+         </td>
+      </tr>
+</table>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hidedark_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Top%20Linguagens&cache_seconds=14400=tokyonight&hidedark_border=true" />
