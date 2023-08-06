@@ -220,6 +220,20 @@
    </a>
     </td>
   </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/MaiaraSanto/DevStart---FloripamaisTec" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=DevStart---FloripamaisTec&theme=tokyonight&hidedark_border=true">
+   </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <a href="https://github.com/MaiaraSanto/PROJETO-02-WEB3.O-ANGULAR" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=PROJETO-02-WEB3.O-ANGULAR&theme=tokyonight&hidedark_border=true">
+   </a>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/MaiaraSanto/STACKLIST-STACKX-REACT" target="_blank">
@@ -262,6 +276,58 @@
      </a>
     </td>
   </tr>
+   <tr>
+      <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/PROJETO-01-WEB-3.O-REACT" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=PROJETO-01-WEB-3.O-REACT&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Dsmeta1" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Dsmeta1&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/PROJETO-03-WEB3.0-VUE" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=PROJETO-03-WEB3.0-VUE&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+
+   <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/stackx-basico-entrypoint" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=stackx-basico-entrypoint&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Curriculo-StackX" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=Curriculo-StackX&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/Poo-Java" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=POO-Java&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+   <tr>
+    <td>
+   <a href="https://github.com/MaiaraSanto/StackX-JavaScriptIII" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaiaraSanto&repo=StackX-JavaScriptIII&theme=tokyonight&hidedark_border=true">
+     </a>
+    </td>
+  </tr>
+
   <tr>
     <td>
    <a href="https://github.com/MaiaraSanto/Java-Logica-de-Programacao" target="_blank">
@@ -277,7 +343,7 @@
     </td>
   </tr>
 </table>   
- </details open>  
+ 
  
  ***
 
