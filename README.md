@@ -54,7 +54,7 @@
          </td>
       </tr>
  </table> 
-<table align="center" align="right" height="279px&theme=tokyonight&hidedark_border=true">
+<table align="center" align="right" border= "1px  solid">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br><br>
@@ -220,7 +220,7 @@
    </table>
 <img align="left" src="./img.gif" height="495px" width="45%"  border="10px solid black" alt="Garta programando, trabalhando em seus projetos pessoais" />
         
-<table height="495px" width="45%" align="right">
+<table height="495px" width="45%" align="right" border= "1px  solid">
     <tr>
     <td>
     <a href="https://github.com/MaiaraSanto/StackX-List-Angular" target="_blank">
@@ -342,7 +342,6 @@
      </a>
     </td>
   </tr>
-
   <tr>
     <td>
    <a href="https://github.com/MaiaraSanto/Java-Logica-de-Programacao" target="_blank">
@@ -367,7 +366,7 @@
       </tr>
 
  </table>
- <table align="center" align="right" height="279px" border: "border-width">
+ <table align="center" align="right" border= "1px  solid">
   <tr>
     <td align="center">
        <a  href=https://www.linkedin.com/in/maiarasantos25/><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br><br>
