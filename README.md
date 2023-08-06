@@ -21,7 +21,7 @@
 <img src="./stackx.gif" align="center" width="70">
 </h1>
 
-<img align="center" src="./about.png" width="100%" alt="Título da seção Sobre Mim" />
+<img align="center" src="./about.png" width="100%"  border="10px solid black" alt="Título da seção Sobre Mim" />
 
 ◾ 🖥️ <I>Sou Pós-Graduada em História, com experiência em atuar como Professora e Coordenadora Pedagógica, do Ensino Público da Educação Básica, durante 7 anos.!!</I>
 
@@ -44,7 +44,7 @@
 
 ***
 
-<img align="center" src="./stack.png" width="100%" alt="Título da seção Minha Stack" />  
+<img align="center" src="./stack.png" width="100%" alt="Título da seção Minha Stack"  border="radius"/>  
   
 <table align="center" align="right" height="279px&theme=tokyonight&hidedark_border=true">
   <tr>
@@ -204,7 +204,7 @@
   </tr>
 </table>                                                                                                                                                 
  <img align="center" src="./project.png" width="100%" alt="Título da seção Projetos" />                      
-<img align="left" src="./img.gif" height="495px" width="45%" alt="Garoto programando, trabalhando em seus projetos pessoais" />
+<img align="left" src="./img.gif" height="495px" width="45%"  border="10px solid black" alt="Garoto programando, trabalhando em seus projetos pessoais" />
 <table height="495px" width="45%" align="right">
     <tr>
     <td>
