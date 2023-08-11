@@ -471,7 +471,7 @@
 
 <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=MaiaraSanto&langs_count=8&theme=tokyonight&hidedark_border=true&custom_title=Top%20Linguagens&cache_seconds=14400=tokyonight&hidedark_border=true" />
 <div align="right">
-  <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Stats&theme=tokyonight&hidedark_border=true" />
+  <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&custom_title=MaiaraSanto's%20Github%20Status&theme=tokyonight&hidedark_border=true" />
   <img height="203px" src="https://streak-stats.demolab.com?user=MaiaraSanto&theme=tokyonight&hidedark_border=true" />
 </div>
 <div align="center">
