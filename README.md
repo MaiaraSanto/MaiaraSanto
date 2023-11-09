@@ -19,7 +19,8 @@
   
    <h2> Estudante de Desenvolvimento  de Software na&ensp; 
       <img src="./stackx.gif" align="center" width="70">
-</h1>
+</h2>
+<br>
 <table>
    <tr>
       <td border-width= "5px black">
