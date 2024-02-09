@@ -442,7 +442,7 @@
       </sub>
     </td>
     <td align="center">
-     <a href="katylenekatylene@gmail.com"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/gmail.png" width="75px" alt=" gmail icon"/></a><br><br>
+     <a href="https://is.gd/jXaGS9"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/gmail.png" width="75px" alt=" gmail icon"/></a><br><br>
       <sub>
         <b>
           <pre>Gmail</pre>
