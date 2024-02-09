@@ -410,7 +410,7 @@
       </sub>
     </td>   
     <td align="center">
-      <a href="https://is.gd/maiarayahoo"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
+      <a href="mailto:info@example.com?&subject=&cc=&bcc=&body=maiarasantos34@yahoo.com%0A"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/yahoo.PNG" width="75px" alt=" Yahoo icon"/></a><br><br>
       <sub>
         <b>
           <pre>Yahoo</pre>
@@ -418,7 +418,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://is.gd/maiarasantostelegram"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.png" width="75px" alt=" Telegram icon"/></a><br><br>
+      <a href="https://t.me/Maiara Santos"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/telegram.png" width="75px" alt=" Telegram icon"/></a><br><br>
       <sub>
         <b>
           <pre>Telegram</pre>
@@ -434,7 +434,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://is.gd/maiaracelular"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/cell.PNG" width="75px" alt=" Celular icon"/></a><br><br>
+      <a href="https://is.gd/3w0hgh"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/cell.PNG" width="75px" alt=" Celular icon"/></a><br><br>
       <sub>
         <b>
           <pre>Celular</pre>
@@ -442,7 +442,7 @@
       </sub>
     </td>
      <td align="center">
-      <a href="https://is.gd/maiarasms"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/sms.png" width="75px" alt=" SMS icon"/></a><br><br>
+      <a href="https://is.gd/0XxCQz"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/sms.png" width="75px" alt=" SMS icon"/></a><br><br>
       <sub>
         <b>
           <pre>&ensp;SMS&ensp;</pre>
@@ -450,7 +450,7 @@
       </sub>
     </td>
     <td align="center">
-     <a href="https://is.gd/maiaragmail"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/gmail.png" width="75px" alt=" gmail icon"/></a><br><br>
+     <a href="katylenekatylene@gmail.com"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/gmail.png" width="75px" alt=" gmail icon"/></a><br><br>
       <sub>
         <b>
           <pre>Gmail</pre>
