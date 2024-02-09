@@ -402,7 +402,7 @@
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/facebook.png" width="75px" alt=" Facebook icon"/></a><br><br>
+     <a href="https://www.facebook.com/profile.php?id=100069142017196"><img src="https://github.com/MaiaraSanto/MaiaraSanto/blob/main/facebook.png" width="75px" alt=" Facebook icon"/></a><br><br>
       <sub>
         <b>
           <pre>Facebook</pre>
