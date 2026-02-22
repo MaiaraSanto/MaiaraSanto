@@ -1,24 +1,12 @@
 <table align="center">
   <tr>
-    <td>
-      <b>
-         <a href="README.md"><i>BR PORTUGUÊS</i></a>
-      </b>
-    </td>
-    <td>
-       <b><a href="readme-en.md"><i>US ENGLISH</i></a></b>
-    </td>
+    
   </tr>
 </table>
 
 <br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dark&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!+SOU+MAIARA+SANTOS!+:%29)](https://git.io/typing-svg)
-
-<h2>
-Estudante de Desenvolvimento de Software na
-<img src="./stackx.gif" align="center" width="70">
-</h2>
 
 <br>
 
