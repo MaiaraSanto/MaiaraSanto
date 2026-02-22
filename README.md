@@ -73,14 +73,34 @@
 </tr>
 </table>
 
-<img align="left" src="./img.gif" height="495" width="45%" />
+<br>
 
-<table height="495" width="45%" align="right">
-<tr><td>
-<a href="https://github.com/MaiaraSanto?tab=repositories" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?username=MaiaraSanto&show_icons=true&theme=tokyonight&hide_border=true">
-</a>
-</td></tr>
+<table width="100%">
+<tr>
+
+<!-- COLUNA ESQUERDA - IMAGEM -->
+<td width="50%" align="left" >
+  <img src="./img.gif" width="100%" />
+</td>
+
+<!-- COLUNA DIREITA - GRÁFICO -->
+<td width="50%" align="center">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaiaraSanto&theme=tokyonight" 
+    width="100%" 
+  />
+
+  
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaiaraSanto&theme=tokyonight" 
+    width="100%" 
+  />
+
+</td>
+
+</tr>
 </table>
 
 <br clear="both"/>
