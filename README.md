@@ -31,7 +31,7 @@
 ***
 
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400" width="100%">
 </div>
 
 ***
@@ -47,20 +47,20 @@
 <table align="center">
 <tr>
 
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="65"><br><sub><b>MySQL</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="65"><br><sub><b>JavaScript</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="65"><br><sub><b>CSS3</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="65"><br><sub><b>HTML5</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="65"><br><sub><b>Git</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="65"><br><sub><b>ReactJS</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="65"><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="65"><br><sub><b>NodeJS</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="65"><br><sub><b>Bootstrap</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jquery" width="65"><br><sub><b>jQuery</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="65"><br><sub><b>ViteJS</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="65"><br><sub><b>TypeScript</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="65"><br><sub><b>Java</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=scss" width="65"><br><sub><b>SCSS</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="300"><br><sub><b>MySQL</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="300"><br><sub><b>JavaScript</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="300"><br><sub><b>CSS3</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="300"><br><sub><b>HTML5</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="300"><br><sub><b>Git</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="300"><br><sub><b>ReactJS</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="300"><br><sub><b>PostgreSQL</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="300"><br><sub><b>NodeJS</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="300"><br><sub><b>Bootstrap</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jquery" width="300"><br><sub><b>jQuery</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="300"><br><sub><b>ViteJS</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="300"><br><sub><b>TypeScript</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="300"><br><sub><b>Java</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=scss" width="300"><br><sub><b>SCSS</b></sub></td>
 
 </tr>
 </table>
