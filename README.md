@@ -44,26 +44,12 @@
 </tr>
 </table>
 
-<table align="center">
-<tr>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="300"><br><sub><b>MySQL</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="300"><br><sub><b>JavaScript</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="300"><br><sub><b>CSS3</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="300"><br><sub><b>HTML5</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="300"><br><sub><b>Git</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="300"><br><sub><b>ReactJS</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="300"><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="300"><br><sub><b>NodeJS</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="300"><br><sub><b>Bootstrap</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jquery" width="300"><br><sub><b>jQuery</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="300"><br><sub><b>ViteJS</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="300"><br><sub><b>TypeScript</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="300"><br><sub><b>Java</b></sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=scss" width="300"><br><sub><b>SCSS</b></sub></td>
-
-</tr>
-</table>
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=mysql,javascript,css,html,git,react,postgresql,nodejs,tailwind,express,vite,typescript,mongodb,docker&theme=dark&perline=7&size=80" 
+    width="100%"
+  />
+</p>
 
 <table>
 <tr>
@@ -113,36 +99,35 @@
 </tr>
 </table>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 <a href="https://www.linkedin.com/in/maiarasantos25/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="65">
+<img src="https://skillicons.dev/icons?i=linkedin" width="100">
 </a><br><sub><b>LinkedIn</b></sub>
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 <a href="https://www.instagram.com/mayarahsant/">
-<img src="https://skillicons.dev/icons?i=instagram" width="65">
+<img src="https://skillicons.dev/icons?i=instagram" width="100">
 </a><br><sub><b>Instagram</b></sub>
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 <a href="https://t.me/MaiaraSantos">
-<img src="https://skillicons.dev/icons?i=telegram" width="65">
+<img src="https://skillicons.dev/icons?i=telegram" width="100">
 </a><br><sub><b>Telegram</b></sub>
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 <a href="mailto:maiarasantos34@yahoo.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="65">
+<img src="https://skillicons.dev/icons?i=gmail" width="100">
 </a><br><sub><b>Email</b></sub>
 </td>
 
 </tr>
 </table>
-
 <table>
 <tr>
 <td>
