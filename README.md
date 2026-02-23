@@ -98,32 +98,31 @@
 </td>
 </tr>
 </table>
-
 <table align="center" width="100%">
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="25%">
 <a href="https://www.linkedin.com/in/maiarasantos25/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="200">
 </a><br><sub><b>LinkedIn</b></sub>
 </td>
 
-<td align="center" width="50%">
-<a href="https://www.instagram.com/mayarahsant/">
-<img src="https://skillicons.dev/icons?i=instagram" width="100">
-</a><br><sub><b>Instagram</b></sub>
+<td align="center" width="25%">
+<a href="https://wa.me/5598999999999">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="200">
+</a><br><sub><b>WhatsApp</b></sub>
 </td>
 
-<td align="center" width="50%">
-<a href="https://t.me/MaiaraSantos">
-<img src="https://skillicons.dev/icons?i=telegram" width="100">
-</a><br><sub><b>Telegram</b></sub>
+<td align="center" width="25%">
+<a href="mailto:seuemail@yahoo.com">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="200">
+</a><br><sub><b>Yahoo</b></sub>
 </td>
 
-<td align="center" width="50%">
-<a href="mailto:maiarasantos34@yahoo.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="100">
-</a><br><sub><b>Email</b></sub>
+<td align="center" width="25%">
+<a href="mailto:seugmail@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="200">
+</a><br><sub><b>Gmail</b></sub>
 </td>
 
 </tr>
