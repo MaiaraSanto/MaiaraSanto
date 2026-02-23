@@ -103,25 +103,25 @@
 
 <td align="center" width="25%">
 <a href="https://www.linkedin.com/in/maiarasantos25/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="300">
 </a><br><sub><b>LinkedIn</b></sub>
 </td>
 
 <td align="center" width="25%">
 <a href="https://wa.me/75991064367">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="300">
 </a><br><sub><b>WhatsApp</b></sub>
 </td>
 
 <td align="center" width="25%">
 <a href="mailto:seuemail@yahoo.com">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="300">
 </a><br><sub><b>Yahoo</b></sub>
 </td>
 
 <td align="center" width="25%">
 <a href="mailto:seugmail@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="300">
 </a><br><sub><b>Gmail</b></sub>
 </td>
 
