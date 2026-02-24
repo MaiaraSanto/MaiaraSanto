@@ -68,7 +68,8 @@
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaiaraSanto&theme=tokyonight" 
-    width="100%" >
+    width="100%" 
+    style="border: 4px solid white;">
 
 
   
@@ -77,8 +78,6 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaiaraSanto&theme=tokyonight" 
     width="100%" 
   />
-
-</td>
 
 </tr>
 </table>
