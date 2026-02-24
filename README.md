@@ -114,13 +114,13 @@
 </td>
 
 <td align="center" width="25%">
-<a href="mailto:seuemail@yahoo.com">
+<a href="maiarasantos34@yahoo.com">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="300">
 </a><br><sub><b>Yahoo</b></sub>
 </td>
 
 <td align="center" width="25%">
-<a href="mailto:seugmail@gmail.com">
+<a href="katylenekatylene@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="300">
 </a><br><sub><b>Gmail</b></sub>
 </td>
