@@ -128,13 +128,22 @@
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hide_border=true" />
+<div align="center">
 
-<img height="415" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiaraSanto&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hide_border=true" width="49%"  />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaiaraSanto&theme=tokyonight" width="49%" />
+
+</div>
 
 <div align="center">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaiaraSanto&theme=tokyonight&utcOffset=8" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hide_border=true" width="49%" />
+
 </div>
+
 
 <img src="./animated-waves.svg" width="100%" />
 
