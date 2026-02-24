@@ -69,7 +69,7 @@
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaiaraSanto&theme=tokyonight" 
     width="100%" 
-    style="border: 4px solid white;">
+    >
 
 
   
@@ -129,19 +129,13 @@
 </table>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hide_border=true" width="49%"  />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaiaraSanto&theme=tokyonight" width="49%" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiaraSanto&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
-
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaiaraSanto&theme=tokyonight&utcOffset=8" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hide_border=true" width="49%" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaiaraSanto&theme=tokyonight" width="100%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiaraSanto&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 
