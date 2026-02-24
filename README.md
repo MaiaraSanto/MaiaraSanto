@@ -18,13 +18,29 @@
 </tr>
 </table>
 
-◾ 🖥️ <i>Sou Pós-Graduada em História, com experiência como Professora e Coordenadora Pedagógica do Ensino Público da Educação Básica durante 7 anos.</i>
+◾  <i>Olá! Sou Maiara Santos 😎💻
 
-◾ 📚 <i>Estou em transição de carreira. Tive o primeiro contato com Programação em 2021 através de um curso Full Stack, iniciando os estudos em Java, React, TypeScript, Node e JavaScript. Desde então o interesse pela área só cresce.</i>
+◾  <i>Desenvolvedora Full Stack em transição com foco em JavaScript, React, Next.js e Node.js, construindo aplicações web modernas, escaláveis e orientadas à performance.
 
-◾ 💡 <i>Atualmente focada em TypeScript, React, Angular e Java.</i>
+◾  <i>Minha trajetória profissional na Educação me proporcionou habilidades sólidas em liderança, comunicação, organização e resolução de problemas — competências que hoje aplico no   <i>desenvolvimento de software, unindo pensamento analítico e visão estratégica.
 
-◾ 💡 <i>Busco adquirir competências, experiências e novos desafios para consolidar minha carreira como Desenvolvedora.</i>
+◾  <i>Tenho experiência com:
+
+◾  <i>Front-end: React, Next.js, JavaScript, HTML, CSS
+
+◾  <i>Back-end: Node.js, Express
+
+◾  <i>Banco de Dados: MongoDB, MySQL
+
+◾  <i>Versionamento: Git e GitHub
+
+◾  <i>Estou em busca da minha primeira oportunidade como Desenvolvedora, pronta para contribuir com projetos reais, aprender rapidamente e gerar impacto desde o primeiro dia.
+
+🚀  <i>Foco em evolução constante, boas práticas e construção de soluções eficientes.
+
+📩  <i>Contato: maiarasantos34@yahoo.com
+
+📱  <i>+55 (75) 99106-4367
 
 ◾ 🥰 <i>Apresento aqui meu portfólio nas linguagens em que venho me aprofundando.</i>
 
@@ -142,5 +158,11 @@
 <img src="./animated-waves.svg" width="100%" />
 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=MaiaraSanto&label=Visitantes&color=527BBF&style=for-the-badge" height="40"/>
+
+<img src="https://komarev.com/ghpvc/?username=MaiaraSanto&label=✨+VISITANTES&color=ff69b4&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&background=00000000&center=false&vCenter=true&width=400&lines=Obrigada+pela+visita!;Volte+sempre+💜;Seja+bem-vindo(a)+🚀" />
+
 </div>
