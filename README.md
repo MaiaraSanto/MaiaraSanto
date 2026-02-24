@@ -64,18 +64,12 @@
 <table width="100%">
 <tr>
 
-<!-- COLUNA ESQUERDA - IMAGEM -->
-<td width="50%" align="left" >
-  <img src="./img.gif" width="100%" />
-</td>
 
-<!-- COLUNA DIREITA - GRÁFICO -->
-<td width="50%" align="center">
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaiaraSanto&theme=tokyonight" 
-    width="100%" 
-  />
+    width="100%" >
+
 
   
 
